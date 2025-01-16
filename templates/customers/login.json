@@ -1,0 +1,48 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-login",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 25,
+        "bottom_space_mobile": 25
+      }
+    },
+    "17290034063c4dafe5": {
+      "type": "apps",
+      "settings": {}
+    },
+    "custom_liquid_NHQ6GR": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_visibility": "always",
+        "custom_liquid": "<div class=\"create-account-text text-center\">\n          <p class=\"text-medium\"><span class=\"create-account-text-info\">{{- 'customer.login_page.have_account' | t -}}</span>\n            <a href=\"{{ routes.account_register_url }}\" class=\"hyperlink\">\n              <strong>{{- 'customer.login_page.create_account' | t -}}</strong>\n            </a>\n          </p>\n        </div>",
+        "text_alignment": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "17290034063c4dafe5",
+    "custom_liquid_NHQ6GR"
+  ]
+}

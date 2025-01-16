@@ -1,0 +1,76 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-search": {
+      "type": "main-search",
+      "settings": {
+        "enable_filtering": true,
+        "open_filtering": true,
+        "open_all_filtering": false,
+        "enable_sorting": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "featured_collection_AzN7FP": {
+      "type": "featured-collection",
+      "settings": {
+        "section_visibility": "always",
+        "collection_grid": "new-releases",
+        "collection_style": "carousel",
+        "grid_style": "vertical",
+        "swipe_on_mobile": false,
+        "products_to_show": 25,
+        "card_size": "small",
+        "grid_image_size": "auto",
+        "grid_image_fit": "cover",
+        "slider_thumbnail": "only-arrow",
+        "show_sale": false,
+        "content": "Content here",
+        "year": 2024,
+        "month": "07",
+        "day": "08",
+        "hours": "08",
+        "minutes": "08",
+        "heading": "Featured collection",
+        "highlight_style": "underline",
+        "highlight_bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h1",
+        "btn_text": "",
+        "btn_link": "shopify://collections/all",
+        "button_as_link": false,
+        "button_size": "small",
+        "button_position": "center",
+        "text__color": "",
+        "counter_text__color": "",
+        "background_style": "solid",
+        "bg__color": "",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(0, 0, 0, 1) 100%)",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 25,
+        "bottom_space_mobile": 25
+      }
+    }
+  },
+  "order": [
+    "main-search",
+    "featured_collection_AzN7FP"
+  ]
+}

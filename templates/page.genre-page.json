@@ -1,0 +1,171 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "desktop_height": "300px",
+        "mobile_height": "200px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": false,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#b3b3b3",
+        "text_color": "",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 35,
+        "bottom_space_desktop": 35,
+        "top_space_mobile": 20,
+        "bottom_space_mobile": 20
+      }
+    },
+    "collection_list_nmrknt": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_bNtHJ9": {
+          "type": "collection",
+          "settings": {
+            "collection": "action-1"
+          }
+        },
+        "collection_hL3HwR": {
+          "type": "collection",
+          "settings": {
+            "collection": "adventure-1"
+          }
+        },
+        "collection_p3XAa8": {
+          "type": "collection",
+          "settings": {
+            "collection": "anime"
+          }
+        },
+        "collection_f8VwRp": {
+          "type": "collection",
+          "settings": {
+            "collection": "casual"
+          }
+        },
+        "collection_xym3Ar": {
+          "type": "collection",
+          "settings": {
+            "collection": "indie"
+          }
+        },
+        "collection_98pELa": {
+          "type": "collection",
+          "settings": {
+            "collection": "massively-multiplayer"
+          }
+        },
+        "collection_wxKqXy": {
+          "type": "collection",
+          "settings": {
+            "collection": "online-co-op"
+          }
+        },
+        "collection_3Pb6mH": {
+          "type": "collection",
+          "settings": {
+            "collection": "online-pvp"
+          }
+        },
+        "collection_aqd4FF": {
+          "type": "collection",
+          "settings": {
+            "collection": "racing"
+          }
+        },
+        "collection_qjTiC4": {
+          "type": "collection",
+          "settings": {
+            "collection": "rpg-1"
+          }
+        },
+        "collection_NLK7kT": {
+          "type": "collection",
+          "settings": {
+            "collection": "shooter"
+          }
+        },
+        "collection_gmrijA": {
+          "type": "collection",
+          "settings": {
+            "collection": "simulation"
+          }
+        },
+        "collection_TTbeTi": {
+          "type": "collection",
+          "settings": {
+            "collection": "single-player"
+          }
+        },
+        "collection_7FCzdG": {
+          "type": "collection",
+          "settings": {
+            "collection": "sports"
+          }
+        },
+        "collection_F8LFiW": {
+          "type": "collection",
+          "settings": {
+            "collection": "strategy"
+          }
+        }
+      },
+      "block_order": [
+        "collection_bNtHJ9",
+        "collection_hL3HwR",
+        "collection_p3XAa8",
+        "collection_f8VwRp",
+        "collection_xym3Ar",
+        "collection_98pELa",
+        "collection_wxKqXy",
+        "collection_3Pb6mH",
+        "collection_aqd4FF",
+        "collection_qjTiC4",
+        "collection_NLK7kT",
+        "collection_gmrijA",
+        "collection_TTbeTi",
+        "collection_7FCzdG",
+        "collection_F8LFiW"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "heading": "All Genres",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "heading_alignment": "text-left",
+        "list_style": "stacked",
+        "title_alignment": "center",
+        "title_position": "below-image",
+        "grid_image_size": "auto",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 20,
+        "bottom_space_mobile": 20
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "collection_list_nmrknt"
+  ]
+}

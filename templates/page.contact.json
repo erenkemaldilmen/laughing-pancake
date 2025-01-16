@@ -1,0 +1,40 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "contact-form": {
+      "type": "contact-form",
+      "settings": {
+        "section_visibility": "always",
+        "heading": "{{ page.title }}",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "description": "",
+        "content_alignment": "text-center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main-page",
+    "contact-form"
+  ]
+}

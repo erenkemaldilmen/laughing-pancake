@@ -1,0 +1,230 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumb": {
+      "type": "breadcrumb",
+      "disabled": true,
+      "settings": {
+        "section_visibility": "always",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 20,
+        "bottom_space_desktop": 20,
+        "top_space_mobile": 15,
+        "bottom_space_mobile": 15
+      }
+    },
+    "featured_product_QLhB4V": {
+      "type": "featured-product",
+      "blocks": {
+        "title_7X6iBB": {
+          "type": "title",
+          "disabled": true,
+          "settings": {}
+        },
+        "price_YBQLPr": {
+          "type": "price",
+          "settings": {
+            "hide_shipping_content": true
+          }
+        },
+        "quantity_selector_yEiWrz": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buttons_TWAVF7": {
+          "type": "buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "add_multipliers": ""
+          }
+        },
+        "payment_icons_DRtpY4": {
+          "type": "payment-icons",
+          "disabled": true,
+          "settings": {
+            "enable_payment_icons": true
+          }
+        },
+        "text_KR9cTb": {
+          "type": "text",
+          "settings": {
+            "text": "Platform"
+          }
+        },
+        "text_qXBGE8": {
+          "type": "text",
+          "settings": {
+            "text": "Operating system"
+          }
+        },
+        "text_HJHXCm": {
+          "type": "text",
+          "settings": {
+            "text": "Regional Restrictions"
+          }
+        },
+        "text_CLnC96": {
+          "type": "text",
+          "settings": {
+            "text": "Supported Languages"
+          }
+        },
+        "text_WQFV7f": {
+          "type": "text",
+          "settings": {
+            "text": "Release date"
+          }
+        },
+        "text_zd8cNx": {
+          "type": "text",
+          "settings": {
+            "text": "Publisher"
+          }
+        },
+        "text_DcEx64": {
+          "type": "text",
+          "settings": {
+            "text": "Developer"
+          }
+        }
+      },
+      "block_order": [
+        "title_7X6iBB",
+        "price_YBQLPr",
+        "quantity_selector_yEiWrz",
+        "buttons_TWAVF7",
+        "payment_icons_DRtpY4",
+        "text_KR9cTb",
+        "text_qXBGE8",
+        "text_HJHXCm",
+        "text_CLnC96",
+        "text_WQFV7f",
+        "text_zd8cNx",
+        "text_DcEx64"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "product": "{{ product }}",
+        "product_image_size": "auto",
+        "heading": "{{ section.settings.product.title }}",
+        "highlight_style": "shape_5",
+        "bg__color": "solid",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "crown_badge": false,
+        "color_scheme": "",
+        "enable_gradient": true,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 50,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "8d7370a5-06f6-48a5-b6b5-0742d61cc961": {
+          "type": "vendor",
+          "settings": {
+            "sticky_form": true
+          }
+        },
+        "25ec0933-a7f7-4e2b-abcc-db44a4b06822": {
+          "type": "title",
+          "settings": {}
+        },
+        "2f963f12-3438-475f-bc2f-4f18ce082c6a": {
+          "type": "rating",
+          "settings": {
+            "sticky_form": true
+          }
+        },
+        "7f9723ab-91be-4176-8dfd-073b7d3b08cd": {
+          "type": "price",
+          "settings": {
+            "hide_shipping_content": false,
+            "sticky_form": true
+          }
+        },
+        "e04c9034-40f4-488a-9771-6b79d314c85b": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "cd105ae7-f62b-4c97-a912-cba83a6f524c": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "96e9aa97-0de3-428d-a50b-3bcda9c980d1": {
+          "type": "buttons",
+          "settings": {
+            "sticky_form": true,
+            "show_dynamic_checkout": true,
+            "show_recipient_form": false,
+            "add_multipliers": ""
+          }
+        },
+        "0711d9ad-c853-48d1-97fd-b2e8d089de71": {
+          "type": "pickup",
+          "settings": {}
+        },
+        "3a53301d-17f6-4335-90d8-d082efd67f89": {
+          "type": "shareicons",
+          "settings": {
+            "sticky_form": true,
+            "facebook": true,
+            "twitter": true,
+            "linkedin": true,
+            "pininterest": true
+          }
+        },
+        "1e2eab4b-e2e0-4867-9b0e-73dc4cd0fd2b": {
+          "type": "complementary_products",
+          "settings": {
+            "sticky_form": true,
+            "heading": "You might also Need...",
+            "products_count": 8
+          }
+        }
+      },
+      "block_order": [
+        "8d7370a5-06f6-48a5-b6b5-0742d61cc961",
+        "25ec0933-a7f7-4e2b-abcc-db44a4b06822",
+        "2f963f12-3438-475f-bc2f-4f18ce082c6a",
+        "7f9723ab-91be-4176-8dfd-073b7d3b08cd",
+        "e04c9034-40f4-488a-9771-6b79d314c85b",
+        "cd105ae7-f62b-4c97-a912-cba83a6f524c",
+        "96e9aa97-0de3-428d-a50b-3bcda9c980d1",
+        "0711d9ad-c853-48d1-97fd-b2e8d089de71",
+        "3a53301d-17f6-4335-90d8-d082efd67f89",
+        "1e2eab4b-e2e0-4867-9b0e-73dc4cd0fd2b"
+      ],
+      "settings": {
+        "enable_sticky_product": true,
+        "sticky_type": "onscroll",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 10,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "breadcrumb",
+    "main",
+    "featured_product_QLhB4V"
+  ]
+}

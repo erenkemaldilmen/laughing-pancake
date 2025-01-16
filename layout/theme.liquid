@@ -1,0 +1,477 @@
+{% include 'shogun-content-handler' %}
+<!doctype html>
+<html class="no-js" lang="{{ request.locale.iso_code }}" color-mode="dark">
+  <head>
+    <meta charset="utf-8">
+    <meta name="color-scheme" content="dark light">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="">
+    {% render 'meta-tags' %}
+    <link rel="canonical" href="{{ canonical_url }}">
+    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+    {%- if settings.favicon != blank -%}
+      <link
+        rel="icon"
+        type="image/png"
+        href="{{ settings.favicon | image_url: width: 32, height: 32 }}"
+      >
+    {%- endif -%}
+
+    {%- unless settings.header_font.system? and settings.body_font.system? -%}
+      <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
+    {%- endunless -%}
+    <title>
+      {{ page_title }}
+      {%- if current_tags %}
+        &ndash; tagged "{{ current_tags | join: ', ' }}"
+      {%- endif -%}
+      {%- if current_page != 1 %}
+        &ndash; Page {{ current_page -}}
+      {%- endif -%}
+      {%- unless page_title contains shop.name %}
+        &ndash; {{ shop.name -}}
+      {%- endunless -%}
+    </title>
+
+    {% if page_description %}
+      <meta name="description" content="{{ page_description | escape }}">
+    {% endif %}
+
+    <style>
+
+      p.other-options-p span {
+    background: transparent !important;
+    color: white !important;
+}
+      
+.pick_currency.mldesk{
+  display: none !important;
+}
+      label {
+    margin-top: 15px;
+}
+      .submit {
+    margin-top: 35px;
+}
+      .product-thumbnail-item, .product-thumbnail-item * {
+        width: 140px !important;
+    }
+
+              p.product-detail-item.text .container{
+                margin: 0;
+                padding: 0;
+              }
+
+
+       p.product-detail-item.text   .logo-items-wrapper.text-center.stacked.swipe_on_mobile.images_equal_height {
+    justify-content: flex-start;
+}
+         
+    p.product-detail-item.text  .scheme-primary.section-padding.border-false img {
+    min-width: 64px;
+    min-height: 64px;
+    object-fit: contain;
+}
+
+          p.product-detail-item.text  .scheme-primary.section-padding.border-false a {
+    min-width: 64px;
+    min-height: 64px;
+    object-fit: contain;
+}
+      
+      .product-thumbnail-item{
+          object-fit: contain;
+        transform: none;
+      }
+
+      .product-thumbnail-inner{
+        transform: none !important;
+      }
+
+      .gamesporiumSlideshow-cell.gamesporiumSlideshow-cell {
+    transform: none !important;
+}
+      
+          .product-gallery-thumbnail-img .flickity-button {
+    background: transparent;
+    box-shadow: none;
+    width: 40px !important;
+    height: 40px !important;
+    background: rgba(255, 255, 255, 0.5) !important;
+}
+      .flickity-prev-next-button.next{
+        right: 30px !important;
+      }
+      .product-gallery-img-wrapper{
+            flex-direction: column !important;
+      }
+
+            .product-detail-item.text, .product-description, .custom-liquid {
+                margin-bottom: 25px;
+                display: block;
+            }
+
+      .countdown-offer-products.background-enabled {
+    display: none;
+}
+      .countdown-wrapper.countdown-bg-color {
+    justify-content: center;
+    background: none;
+}
+              @media(min-width:768px){
+                .media-grid-wrapper {
+                    flex-direction: row;
+                    display: flex !important;
+                    flex-wrap: nowrap;
+                }
+                
+                .media-grid-wrapper .media-grid-item {
+                    min-width: 33% !important;
+                    min-height: 300px;
+                }
+              }
+
+      h1,h2,h3,h4,h5,h6,strong,b {
+                font-family: 'Sackers Square Gothic' !important;
+            
+      }
+            .text, p, span, a, ul, li {
+                font-family: 'Quantico' !important;
+            }
+      
+            .product-gallery-thumbnail-slider.flickity-enabled.arrow-enabled {
+                margin: 0 !important;
+                padding: 0 !important;
+            }
+      
+            div#block-logo_4pCRiG {
+                --logoWidth: 50px !important;
+            }
+      
+            a.product-img.product-gap-enabled.product-border-enabled img {
+            
+                height: 100%;
+            }
+
+            a.product-img.product-gap-enabled.product-border-enabled {
+                min-height: 150px;
+            }
+      
+            .product-img.product-gap-enabled .media {
+                height: 100% !important;
+                min-height: 100% !important;
+                aspect-ratio: 16 / 9;
+            }
+
+            a.blog-item-image-container.img-zoom img {
+              object-fit: cover !important;
+              object-position: left !important;
+            }
+
+            a.blog-item-image-container.img-zoom {
+                min-height: 200px;
+            }
+
+            .slideshow-content-inner {
+                justify-content: center;
+                text-align: center;
+            }
+
+            .blog-item-inner .media{
+              position: static !important;
+              object-position: left !important;
+            }
+
+
+          .product-gallery-img-innerf, .product-gallery-img-innerf * {
+                  height: 140px !important;
+                  object-fit: contain !important;
+              }
+      
+            @media(min-width:768px){
+
+              .logo-items-wrapper.text-center.stacked.swipe_on_mobile.images_equal_height {
+    max-width: 80vw;
+    margin: 0 auto;
+}
+              
+              .product-gallery-img.product-media-wrapper {
+                    margin-bottom: 20px;
+                }
+
+                  .product-gallery-img-innerf, .product-gallery-img-innerf * {
+                  height: 440px !important;
+                  object-fit: contain !important;
+              }
+          
+              .slider.product-gallery-thumbnail-slider{
+               width: 800px !important;
+              }
+              .product-gallery-img-wrapper {
+                  --thumbnail-width: 105.5px !important;
+              }
+
+            }
+    </style>
+
+    {{ content_for_header }}
+
+    {% render 'style-variables' %}
+    {% render 'theme-variables' %}
+    {%- unless settings.type_body_font.system? -%}
+      <link
+        rel="preload"
+        as="font"
+        href="{{ settings.type_body_font | font_url }}"
+        type="font/woff2"
+        crossorigin
+      >
+    {%- endunless -%}
+    {%- unless settings.type_header_font.system? -%}
+      <link
+        rel="preload"
+        as="font"
+        href="{{ settings.type_header_font | font_url }}"
+        type="font/woff2"
+        crossorigin
+      >
+    {%- endunless -%}
+
+    <script>
+      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+      if (Shopify.designMode) {
+        document.documentElement.classList.add('shopify-design-mode');
+      }
+    </script>
+
+    {% render 'shogun-head' %}
+  </head>
+  <body class="btn-hover-effect-{{ settings.button_hover_effect }}">
+    <a
+      class="unstyled-link skip-to-content-link button focus-inside{% if settings.enable_button_shadow %} button-shadow{% endif %}"
+      href="#MainContent"
+    >
+      {{ 'accessibility.skip_to_text' | t }}
+    </a>
+    <div class="body-wrapper">
+      {% sections 'header-group' %}
+
+      {% if settings.enable_dl_mode_toggle %}
+        <script>
+          if (localStorage.darkMode == 'true') {
+            document.querySelector('html').setAttribute('color-mode', 'dark');
+            const dlTogglecheckboxes = document.querySelectorAll('[data-dark-toggle]');
+            Array.from(dlTogglecheckboxes).forEach(function(checkbox){
+              checkbox.checked = true;
+            })
+          }
+        </script>
+      {% endif %}
+
+      <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+        {{ content_for_layout }}
+      </main>
+      {% liquid
+        sections 'footer-group'
+        section 'age-verification'
+        section 'newsletter-offer-popup'
+        if settings.quickview
+          section 'product-quick-view'
+        endif
+        section 'compare-products-content'
+        section 'information-drawer'
+        if template != 'cart'
+          render 'cart-drawer'
+        endif
+        render 'scroll-top'
+      %}
+      {% unless settings.atc_alert == 'none' %}
+        <audio id="cartAlert">
+          {% assign tuneURL = settings.atc_alert | append: '.mp3' | asset_url %}
+          <source src="{{ tuneURL }}" type="audio/mpeg">
+        </audio>
+      {% endunless %}
+    </div>
+    {% if template == 'cart' and settings.enable_confetti_effect %}
+      <div class="confetti-container-wrapper">
+        <div class="confetti-container"></div>
+      </div>
+    {% endif %}
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        AOS.init({
+          easing: 'ease',
+          once: true,
+          duration: 1000,
+          offset: 60
+        });
+        setTimeout(function () {
+          if (AOS) {
+            AOS.refresh();
+          }
+        }, 1000);
+        new universalParallax().init({
+          speed:10
+        });
+      })
+    </script>
+    <script>
+    document.addEventListener("shopify:section:load", function(e){
+      if (Shopify.designMode){
+        const $slideshow = e.target;
+
+        if (!$slideshow.classList.contains("gamesporium-slideshow-section")){
+          return;
+        }
+
+        const $script = $slideshow.querySelector(`script`);
+        const script = $script.innerHTML
+
+        eval(script);
+	  }
+    });
+      
+    document.addEventListener('DOMContentLoaded', function() {
+      // Check if we are on a product page
+      if (window.location.pathname.includes('/praoducts/')) {
+        const oldNode = document.querySelector('#shopify-section-template--23736454742346__logo_list_mzdPyg');
+        if (oldNode) {
+          // Create the new div if it doesn't exist
+          let newDiv = document.querySelector('p.product-detail-item.text');
+          
+          // Clone the content and append it to the new div
+          newDiv.appendChild(oldNode.cloneNode(true));
+          
+          // Remove the old node
+          oldNode.remove();
+        }
+      }
+    });
+
+      
+  </script>
+  <script>
+     document.querySelector("input[name='contact[email]']").addEventListener("keydown", function(event) {
+      if (event.key === "Enter") {
+        event.preventDefault(); // Varsayılan Enter davranışını engeller
+        document.querySelector("footer #newsletter-form").submit(); // Formu gönderir
+      }
+    });
+  </script>
+
+<!-- Yaş doğrulama pop-up'ı -->
+<div id="age-verification-popup" class="age-popup hidden">
+  <div class="popup-content">
+    <p>This product requires age verification. Please enter your date of birth:</p>
+    <input type="date" id="dob-input" required />
+    <button onclick="verifyAgeNodus()">Verify Age</button>
+  </div>
+</div>
+
+
+    <style>
+      .age-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.popup-content {
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+  max-width: 300px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.hidden {
+  display: none;
+}
+
+.popup-content {
+    gap: 12px;
+}
+
+      div#age-verification-popup p {
+    color: black;
+}
+
+      div#age-verification-popup button {
+    padding:8px;
+}
+      
+    </style>
+    
+{% assign x = product.metafields.custom.pegirating.value %}
+
+{% if x != blank %}
+{% assign ageLimit = x.name %}
+{% assign ageLimitNumeric = ageLimit | remove: 'PEGI ' %}
+
+    <script>
+
+document.addEventListener("DOMContentLoaded", function () {
+  // Yaş doğrulama durumu kontrolü
+  const ageVerified = localStorage.getItem("ageVerified");
+  
+  if (!ageVerified) {
+    // Eğer doğrulama yapılmadıysa popup gösterilir
+    document.getElementById("age-verification-popup").classList.remove("hidden");
+  } else {
+    // Yaş doğrulaması yapılmışsa ürün sayfasındaki yaş sınırını kontrol eder
+    const ageLimit = parseInt({{ ageLimitNumeric }});
+    
+    const userAge = parseInt(localStorage.getItem("age"), 10);
+    
+    if (userAge < ageLimit) {
+      // Kullanıcı yaşı ürün yaş sınırına uymuyorsa ana sayfaya yönlendirilir
+      window.location.href = "/";
+    }
+  }
+});
+
+// Yaşı doğrulama ve kaydetme fonksiyonu
+function verifyAgeNodus() {
+  const dobInput = document.getElementById("dob-input").value;
+  if (!dobInput) {
+    alert("Please enter your date of birth.");
+    return;
+  }
+  
+  const dob = new Date(dobInput);
+  const today = new Date();
+  const age = today.getFullYear() - dob.getFullYear();
+  const monthDifference = today.getMonth() - dob.getMonth();
+  
+  // Eğer doğum günü henüz gelmediyse yaşı 1 azalt
+  if (monthDifference < 0 || (monthDifference === 0 && today.getDate() < dob.getDate())) {
+    age--;
+  }
+
+  const ageLimit = parseInt({{ ageLimitNumeric }});
+
+  if (age >= ageLimit) {
+    localStorage.setItem("ageVerified", true);
+    localStorage.setItem("age", age);
+    document.getElementById("age-verification-popup").classList.add("hidden");
+  } else {
+    localStorage.setItem("ageVerified", false);
+    localStorage.setItem("age", age);
+    alert("You do not meet the age requirement for this product.");
+    window.location.href = "/";
+  }
+}
+
+    </script>
+{% endif %}
+  </body>
+</html>

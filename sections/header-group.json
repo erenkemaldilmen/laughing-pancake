@@ -1,0 +1,219 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_A84PRD": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "<strong>Official Gamestore®</strong>",
+            "enable": false,
+            "toggle_button": "",
+            "subheading": "",
+            "heading": "",
+            "content_description": "",
+            "text_style": "text-center",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "large"
+          }
+        },
+        "announcement_yk9kdc": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "<strong>Shop Smart, Play with Heart!</strong>",
+            "enable": false,
+            "toggle_button": "",
+            "subheading": "",
+            "heading": "",
+            "content_description": "",
+            "text_style": "text-center",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "large"
+          }
+        },
+        "announcement_brPUpn": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "announcement_text": "Black Friday Deals Up to 90% Discount",
+            "enable": false,
+            "toggle_button": "",
+            "subheading": "",
+            "heading": "",
+            "content_description": "",
+            "text_style": "text-center",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_A84PRD",
+        "announcement_yk9kdc",
+        "announcement_brPUpn"
+      ],
+      "settings": {
+        "home_page_only": false,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_style": "adapt",
+        "show_contact_info": false,
+        "link_with_information_drawer": false,
+        "contact_text": "",
+        "social_icons": true,
+        "enable_language_selector": true,
+        "enable_currency_selector": false,
+        "bg_style": "solid",
+        "background": "#b99a45",
+        "background_gradient": "linear-gradient(264deg, rgba(130, 86, 255, 1), rgba(185, 154, 69, 1) 3%)",
+        "fontcolor": "#000000",
+        "toggle_bg": "#ffffff",
+        "toggle_color": "#000000",
+        "link_color": "#000000",
+        "link_hover_color": "#a3a3a3",
+        "background_right": "#b99a45",
+        "fontcolor2": "#000000",
+        "drawer_background": "",
+        "drawer_text_color": "",
+        "link_color2": "#ffffff",
+        "link_hover_color2": "#a3a3a3",
+        "color_scheme": "primary",
+        "enable_gradient": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "menu_label_6dhypW": {
+          "type": "menu_label",
+          "disabled": true,
+          "settings": {
+            "title": "Ecosystem Support",
+            "icon": "gift",
+            "link": "shopify://pages/ecosystem-support-1"
+          }
+        },
+        "menu_label_XN4iWy": {
+          "type": "menu_label",
+          "disabled": true,
+          "settings": {
+            "title": "Gamesporium Prime",
+            "icon": "global",
+            "link": "shopify://pages/gp-prime"
+          }
+        },
+        "promo_badge_4tiRdP": {
+          "type": "promo_badge",
+          "disabled": true,
+          "settings": {
+            "title": "Ecosystem Support",
+            "link": "shopify://pages/ecosystem-support",
+            "text_color": "#b99a45",
+            "text_bg": "#000000"
+          }
+        },
+        "promo_badge_XyK7B4": {
+          "type": "promo_badge",
+          "disabled": true,
+          "settings": {
+            "title": "Gamesporium Prime",
+            "link": "shopify://pages/gp-prime",
+            "text_color": "#b99a45",
+            "text_bg": "#000000"
+          }
+        },
+        "menu_label_3iGLfc": {
+          "type": "menu_label",
+          "disabled": true,
+          "settings": {
+            "title": "Test",
+            "icon": "smile",
+            "link": "shopify://pages/test-dev"
+          }
+        },
+        "promo_badge_r7G9hL": {
+          "type": "promo_badge",
+          "settings": {
+            "title": "Discounts",
+            "link": "shopify://collections/black-friday",
+            "text_color": "#b99a45",
+            "text_bg": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "menu_label_6dhypW",
+        "menu_label_XN4iWy",
+        "promo_badge_4tiRdP",
+        "promo_badge_XyK7B4",
+        "menu_label_3iGLfc",
+        "promo_badge_r7G9hL"
+      ],
+      "settings": {
+        "header_style": "logo_with_search_bar",
+        "enable_sticky_header": true,
+        "transparent_header": false,
+        "header_shadow": false,
+        "sticky_header_type": "always",
+        "logo": "shopify://shop_images/Color_logo_-_no_background.png",
+        "logo_width": 220,
+        "logo_alignment": "left",
+        "show_top_corner_radius": false,
+        "top_corner_color": "#000000",
+        "menu": "main-menu",
+        "menu_type": "dropdown",
+        "menu_items_alignment": "center",
+        "menu_font": "heading",
+        "menu_font_bold": true,
+        "sub_menu_font": "body",
+        "menu_font_size": "regular",
+        "submenu_font_size": "small",
+        "category_heading": "",
+        "category_menu": "main-menu",
+        "enable_icons_category_menu": false,
+        "category_style": "style_1",
+        "enable_account": true,
+        "enable_cart": true,
+        "cart_icon_options": "both",
+        "enable_cart_border": false,
+        "enable_cart_rounded": false,
+        "account_type": "page",
+        "enable_search": true,
+        "search_border_enabled": true,
+        "search_size": "med",
+        "enable_store_details": false,
+        "store_detail": "",
+        "icon": "search",
+        "store_content": "",
+        "support_content_text": "#b99a45",
+        "support_content_bg": "#000000",
+        "store_details_text_color": "#000000",
+        "store_details_dropdown_bg": "#f2f2f2",
+        "store_details_link_color": "#6d85a8",
+        "store_details_border_color": "#eeeeee",
+        "enable_header_shape": false,
+        "select_shape": "shape10",
+        "svg_color": "rgba(0,0,0,0)",
+        "svg_stroke": ""
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}

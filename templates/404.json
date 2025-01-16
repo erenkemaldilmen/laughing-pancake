@@ -1,0 +1,95 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "enable_gradient": false
+      }
+    },
+    "slideshow_eH6cnn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_8MBBQj": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/404_3.png",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h1",
+            "seo_heading": "h1",
+            "font_family": "heading",
+            "description": "",
+            "button_size": "small",
+            "btn_text": "",
+            "btn_link": "shopify://pages/home-page",
+            "slide_as_link": false,
+            "button_as_link": false,
+            "btn_text2": "",
+            "btn_link2": "shopify://collections/all",
+            "button_as_link2": false,
+            "content_width": "large",
+            "desktop_content_position": "d-bottom-center",
+            "desktop_alignment": "d-text-center",
+            "mobile_content_position": "m-center",
+            "mobile_alignment": "m-text-left",
+            "content_overlay_color": "#ffffff",
+            "content_overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "subtext_color": "#000000",
+            "text_color": "#000000",
+            "description_color": "#000000",
+            "btn_bg_color": "#b99a45",
+            "btn_shadow_color": "#ececec",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#b99a45",
+            "btn_hover_color": "#d5c28f",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#5C5B5B",
+            "m_subtext_color": "#000000",
+            "m_text_color": "#B3B3B3",
+            "m_description_color": "#B3B3B3",
+            "m_btn_bg_color": "#0B0E0D",
+            "m_btn_shadow_color": "#000000",
+            "m_btn_text_color": "#ffffff",
+            "m_btn_border_color": "#B3B3B3"
+          }
+        }
+      },
+      "block_order": [
+        "slide_8MBBQj"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "section_style": "section_fullwidth",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "slider_thumbnail": "only-arrow",
+        "slider_transition": "slide",
+        "desktop_height": "100vh",
+        "mobile_height": "adapt_image",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 0,
+        "bottom_space_mobile": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_eH6cnn"
+  ]
+}

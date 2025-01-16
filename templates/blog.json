@@ -1,0 +1,324 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "overlay_text": true,
+        "desktop_height": "200px",
+        "mobile_height": "100px",
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "show_date": false,
+        "show_author": true,
+        "show_tags": true,
+        "show_tags_filter": true,
+        "show_excerpt": true,
+        "show_comment_count": true,
+        "article_per_page": 12,
+        "grid_image_size": "auto",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#515253",
+        "text_color": "#ffffff",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0,
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 20,
+        "bottom_space_mobile": 20
+      }
+    },
+    "rich_text_cG8NCj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ybw9E6": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>GameWise: News and Ethics in Gaming</strong>",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_animation": false,
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_pfC3pr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stay informed with the latest news and insights on online gaming, focusing on social responsibility and ethical practices. Join us as we explore the impact of gaming on society and promote a positive, inclusive gaming community.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ybw9E6",
+        "text_pfC3pr"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "content_width": "medium",
+        "content_alignment": "text-center",
+        "content_postion": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 10
+      }
+    },
+    "blog_posts_4i8mA6": {
+      "type": "blog-posts",
+      "blocks": {
+        "post_DmFkLK": {
+          "type": "post",
+          "settings": {
+            "article": "news/warhammer-40-000-space-marine-2-anticipated-review"
+          }
+        },
+        "post_Jw4Qe8": {
+          "type": "post",
+          "settings": {
+            "article": "news/stalker-2-heart-of-chernobyl-anticipated-review"
+          }
+        },
+        "post_Xq6Ttd": {
+          "type": "post",
+          "settings": {
+            "article": "news/frostpunk-2-anticipated-review"
+          }
+        },
+        "post_GTz7Tf": {
+          "type": "post",
+          "settings": {
+            "article": "news/dragon-age-the-veilguard-anticipated-review"
+          }
+        }
+      },
+      "block_order": [
+        "post_DmFkLK",
+        "post_Jw4Qe8",
+        "post_Xq6Ttd",
+        "post_GTz7Tf"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "heading": "<strong>Game News</strong>",
+        "highlight_style": "underline",
+        "blog_style": "stacked",
+        "card_layout": false,
+        "top_border_radius": false,
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "description": "",
+        "heading_alignment": "text-center",
+        "btn_text": "",
+        "btn_link": "shopify://blogs/news",
+        "button_size": "large",
+        "button_alignment": "center",
+        "button_as_link": false,
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": true,
+        "article_image_ratio": "landscape",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 20,
+        "bottom_space_mobile": 20
+      }
+    },
+    "blog_posts_BixVFN": {
+      "type": "blog-posts",
+      "blocks": {
+        "post_XQy3dU": {
+          "type": "post",
+          "settings": {
+            "article": "news/silent-hill-2-anticipated-review"
+          }
+        },
+        "post_hfDVx9": {
+          "type": "post",
+          "settings": {
+            "article": "news/hollow-knight-silksong-anticipated-review"
+          }
+        },
+        "post_WUDLUd": {
+          "type": "post",
+          "settings": {
+            "article": "news/black-myth-wukong-anticipated-review"
+          }
+        },
+        "post_kLND4h": {
+          "type": "post",
+          "settings": {
+            "article": "news/gamesporium-partners-with-meta-publishing-and-owlcat-studios-to-bring-new-titles-to-gamers-worldwide"
+          }
+        }
+      },
+      "block_order": [
+        "post_XQy3dU",
+        "post_hfDVx9",
+        "post_WUDLUd",
+        "post_kLND4h"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "heading": "",
+        "highlight_style": "underline",
+        "blog_style": "stacked",
+        "card_layout": false,
+        "top_border_radius": false,
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "description": "",
+        "heading_alignment": "text-left",
+        "btn_text": "Button text",
+        "btn_link": "",
+        "button_size": "large",
+        "button_alignment": "center",
+        "button_as_link": false,
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": true,
+        "article_image_ratio": "landscape",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "blog_posts_tzXUGW": {
+      "type": "blog-posts",
+      "blocks": {
+        "post_qDa9we": {
+          "type": "post",
+          "settings": {
+            "article": "news/the-game-awards-2024-a-night-of-triumph-innovation-and-unforgettable-moments"
+          }
+        }
+      },
+      "block_order": [
+        "post_qDa9we"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "heading": "",
+        "highlight_style": "underline",
+        "blog_style": "stacked",
+        "card_layout": false,
+        "top_border_radius": false,
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "description": "",
+        "heading_alignment": "text-left",
+        "btn_text": "",
+        "btn_link": "",
+        "button_size": "large",
+        "button_alignment": "center",
+        "button_as_link": false,
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": true,
+        "article_image_ratio": "auto",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "blog_posts_tVqDTx": {
+      "type": "blog-posts",
+      "blocks": {
+        "post_TPQNjP": {
+          "type": "post",
+          "settings": {
+            "article": "news/social-responsibility-and-ecommerce"
+          }
+        },
+        "post_V6ebwP": {
+          "type": "post",
+          "settings": {
+            "article": "news/the-education-of-future-developers"
+          }
+        },
+        "post_6Vxw8c": {
+          "type": "post",
+          "settings": {
+            "article": "news/promoting-social-responsibility-in-online-gaming-communities-1"
+          }
+        },
+        "post_jRWmeP": {
+          "type": "post",
+          "settings": {
+            "article": "news/importance-of-accessibility-in-the-gaming-industry"
+          }
+        }
+      },
+      "block_order": [
+        "post_TPQNjP",
+        "post_V6ebwP",
+        "post_6Vxw8c",
+        "post_jRWmeP"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "heading": "<strong>Social Responsibility</strong>",
+        "highlight_style": "underline",
+        "blog_style": "stacked",
+        "card_layout": false,
+        "top_border_radius": false,
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "description": "",
+        "heading_alignment": "text-center",
+        "btn_text": "",
+        "btn_link": "",
+        "button_size": "large",
+        "button_alignment": "center",
+        "button_as_link": false,
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": true,
+        "article_image_ratio": "landscape",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 20,
+        "bottom_space_mobile": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_cG8NCj",
+    "blog_posts_4i8mA6",
+    "blog_posts_BixVFN",
+    "blog_posts_tzXUGW",
+    "blog_posts_tVqDTx"
+  ]
+}

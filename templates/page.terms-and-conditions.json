@@ -1,0 +1,234 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "desktop_height": "300px",
+        "mobile_height": "200px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#b3b3b3",
+        "text_color": "",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 50,
+        "bottom_space_desktop": 50,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "collapsible_content_dA7eRn": {
+      "type": "Collapsible-content",
+      "blocks": {
+        "text_tLe63U": {
+          "type": "text",
+          "settings": {
+            "heading": "Acceptance of Terms",
+            "page_content": "",
+            "description": "<p>By accessing or using our website, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you may not access or use our website.</p>"
+          }
+        },
+        "text_LfRqdw": {
+          "type": "text",
+          "settings": {
+            "heading": "Services Offered",
+            "page_content": "",
+            "description": "<p>Our website provides a platform for the sale of digital game keys and related products. We reserve the right to modify, suspend, or discontinue any aspect of our services at any time without prior notice.</p>"
+          }
+        },
+        "text_CNnXMk": {
+          "type": "text",
+          "settings": {
+            "heading": "Product Information",
+            "page_content": "",
+            "description": "<p>We strive to provide accurate and up-to-date information about our products, including pricing, descriptions, and availability. However, we do not guarantee the accuracy or completeness of this information and reserve the right to correct any errors, inaccuracies, or omissions.</p>"
+          }
+        },
+        "text_ydg8Dj": {
+          "type": "text",
+          "settings": {
+            "heading": "Purchases and Payments",
+            "page_content": "",
+            "description": "<p>By making a purchase through our website, you agree to pay the specified price for the selected product. Payments are processed securely through Stripe, a trusted and reliable payment gateway that ensures the security of your payment information. We reserve the right to cancel any orders or refuse service at our discretion.</p>"
+          }
+        },
+        "text_tgwP6a": {
+          "type": "text",
+          "settings": {
+            "heading": "Delivery of Digital Products",
+            "page_content": "",
+            "description": "<p>Upon successful payment, digital game keys will be delivered to you via email or through your user account on our website. Please ensure that your contact information is accurate to avoid any delays in delivery.</p>"
+          }
+        },
+        "text_YHLJD4": {
+          "type": "text",
+          "settings": {
+            "heading": "Refunds and Returns",
+            "page_content": "",
+            "description": "<p>Refunds can be made within 14 days of purchase as long as the game keys/licenses have not been downloaded. Please review our <a href=\"/pages/refund-policy\" title=\"Refund Policy\">Refund Policy</a> for more details. If you meet the eligibility criteria, reach out to our team to request a refund.</p>"
+          }
+        },
+        "text_3rRB6e": {
+          "type": "text",
+          "settings": {
+            "heading": "Intellectual Property Rights",
+            "page_content": "",
+            "description": "<p>All content and materials on our website, including but not limited to text, graphics, logos, images, and software, are the intellectual property of Gamesporium or its licensors. You may not use, reproduce, or distribute any content from our website without prior written consent.</p>"
+          }
+        },
+        "text_z8a686": {
+          "type": "text",
+          "settings": {
+            "heading": "Privacy Policy",
+            "page_content": "",
+            "description": "<p>Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and disclose your personal information.</p>"
+          }
+        },
+        "text_9UmhzF": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Gamesporium Prime</strong>",
+            "page_content": "",
+            "description": "<p><strong>Introduction</strong></p><p>Welcome to Gamesporium Prime, a subscription-based service provided by Gamesporium. By subscribing to Gamesporium Prime, you agree to be bound by the following terms and conditions (“Terms”). Please read them carefully.</p><p></p><p><strong>Subscription Service</strong></p><p>Gamesporium Prime offers subscribers exclusive benefits, including discounts on games and gift cards, early access to new releases, monthly free games, and more. The subscription fee for Gamesporium Prime is €9.99 per month. The fee is non-refundable and will be billed automatically on a monthly basis.</p><p></p><p><strong>Benefits</strong></p><p>Subscribers benefit from a 10% discount on all games and a 2% discount on all gift cards, applied automatically at checkout. They also receive early access to select new game releases and exclusive betas, a selection of free games each month chosen by Gamesporium, 24/7 priority customer support, exclusive in-game items, skins, or DLCs each month, and additional discounts on every 4th purchase.</p><p></p><p><strong>Subscription Management</strong></p><p>Subscribers are responsible for maintaining accurate account information, including payment details. The subscription will renew automatically each month unless canceled by the subscriber. Subscribers can cancel their subscription at any time through their account settings, with cancellation taking effect at the end of the current billing cycle.</p><p></p><p><strong>Payment and Billing</strong></p><p>Gamesporium accepts various payment methods, including credit/debit cards and other localized payment options. Payments are processed securely through Stripe, a trusted and reliable payment gateway that ensures the security of your payment information. Subscribers will be billed on the same day each month based on their initial subscription date. If a payment is declined, access to Gamesporium Prime benefits may be suspended until the payment is successfully processed.</p><p></p><p><strong>Changes to the Service</strong></p><p>Gamesporium reserves the right to modify or discontinue any aspect of the Gamesporium Prime service at any time. Subscribers will be notified of any significant changes. Gamesporium may change the subscription fee with prior notice to subscribers. Continued use of the service after the change indicates acceptance of the new fee.</p><p></p><p><strong>Termination</strong></p><p>Subscribers may terminate their subscription at any time, but no refunds will be issued for the remaining period of the subscription. Gamesporium reserves the right to terminate a subscriber’s access to Gamesporium Prime for any breach of these Terms or any unlawful activity.</p>"
+          }
+        },
+        "text_qng6Cy": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Ecosystem Support Program</strong>",
+            "page_content": "",
+            "description": "<p><strong>Introduction</strong></p><p>Welcome to the Ecosystem Support Program provided by Gamesporium. By participating in this initiative, you agree to comply with these Terms and Conditions. Please read them carefully before applying or participating in the program.</p><p></p><p><strong>Program Overview</strong></p><p>The Ecosystem Support Program is designed to empower indie game developers and foster innovation within the gaming community. This initiative includes funding, community involvement, and promotional support for selected projects.</p><p></p><p><strong>Eligibility and Application Process</strong></p><p>Indie game developers with a game in development are eligible to apply for the Ecosystem Support Program. Applicants must provide accurate and complete information during the application process. Gamesporium reserves the right to verify the eligibility of all applicants. Interested developers must complete the online application form available on the Gamesporium website. Applications will be reviewed by our team, and selected projects will be notified via email. Submission of an application does not guarantee selection.</p><p></p><p><strong>Funding, Support, and Developer Obligations</strong></p><p>A portion of every purchase made on the Gamesporium platform will be allocated to support indie game developers through this program. Selected developers will receive financial support to assist in the development of their game. Developers must provide regular updates on the progress of their project and acknowledge Gamesporium’s support in their game credits and promotional materials. Failure to comply with these obligations may result in the termination of support.</p><p></p><p><strong>Community Involvement</strong></p><p>The gaming community will have the opportunity to vote on which projects to support. This collaborative environment encourages engagement and input from our users.</p><p><strong>Visibility and Promotion</strong></p><p>Selected indie games will be featured on the Gamesporium platform, gaining exposure to a wide audience. Gamesporium will also provide marketing and promotional support to increase the visibility and reach of the selected projects.</p><p></p><p><strong>Intellectual Property</strong></p><p>All intellectual property rights in the submitted games remain with the developers. By participating in the Ecosystem Support Program, developers grant Gamesporium the right to use submitted materials for promotional purposes.</p>"
+          }
+        },
+        "text_ByiCeC": {
+          "type": "text",
+          "settings": {
+            "heading": "Limitation of Liability",
+            "page_content": "",
+            "description": "<p>In no event shall Gamesporium be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with your use of our website or services, the Gamesporium Prime service, or the Ecosystem Support Program.</p>"
+          }
+        },
+        "text_LLrJVq": {
+          "type": "text",
+          "settings": {
+            "heading": "Governing Law",
+            "page_content": "",
+            "description": "<p>These Terms and Conditions shall be governed by and construed in accordance with the laws of Estonia. Any disputes arising under these terms shall be subject to the exclusive jurisdiction of the courts in Estonia.</p>"
+          }
+        },
+        "text_3bPWUn": {
+          "type": "text",
+          "settings": {
+            "heading": "Changes to Terms and Conditions",
+            "page_content": "",
+            "description": "<p>We reserve the right to update or modify these Terms and Conditions at any time without prior notice. Changes will be effective immediately upon posting to our website. It is your responsibility to review these terms periodically for updates.</p>"
+          }
+        },
+        "text_GedJpg": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Contact Us</strong>",
+            "page_content": "",
+            "description": "<p>For any questions or concerns about these Terms and Conditions, the Gamesporium Prime service, or the Ecosystem Support Program, please contact us at info@gamesporium.com or visit our website at <a href=\"https://gamesporium.com/\">https://gamesporium.com/</a>. </p><p></p><p>If you have any questions or concerns about these Terms and Conditions, please contact us through our contact form located at the bottom of the page.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_tLe63U",
+        "text_LfRqdw",
+        "text_CNnXMk",
+        "text_ydg8Dj",
+        "text_tgwP6a",
+        "text_YHLJD4",
+        "text_3rRB6e",
+        "text_z8a686",
+        "text_9UmhzF",
+        "text_qng6Cy",
+        "text_ByiCeC",
+        "text_LLrJVq",
+        "text_3bPWUn",
+        "text_GedJpg"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "style": "vertical",
+        "heading": "<strong>Terms and Conditions</strong>",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "description": "Welcome to Gamesporium! These Terms and Conditions govern your use of our website and services as an online game seller. By accessing or using our website, you agree to comply with these Terms and Conditions. Please read them carefully before proceeding.",
+        "enable_blur_overlay": true,
+        "default_open": "none",
+        "heading_color": "#000000",
+        "description_color": "#000000",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "rich_text_dagzRE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_F9tW8P": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_animation": false,
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_F43UXW": {
+          "type": "text",
+          "settings": {
+            "text": "<p></p><p>Thank you for choosing Gamesporium as your trusted online game seller. We appreciate your business!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_F9tW8P",
+        "text_F43UXW"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "content_width": "small",
+        "content_alignment": "text-center",
+        "content_postion": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 10,
+        "bottom_space_desktop": 10,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 10
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "collapsible_content_dA7eRn",
+    "rich_text_dagzRE"
+  ]
+}

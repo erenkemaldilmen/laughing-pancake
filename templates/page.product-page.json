@@ -1,0 +1,299 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_product_ikjPRt": {
+      "type": "featured-product",
+      "blocks": {
+        "title_kbD78g": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_t6FTVG": {
+          "type": "price",
+          "settings": {
+            "hide_shipping_content": false
+          }
+        },
+        "quantity_selector_bqdpMF": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buttons_FC9jRG": {
+          "type": "buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "add_multipliers": ""
+          }
+        },
+        "text_XBzRx9": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_kbD78g",
+        "price_t6FTVG",
+        "quantity_selector_bqdpMF",
+        "buttons_FC9jRG",
+        "text_XBzRx9"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "product": "",
+        "product_image_size": "auto",
+        "heading": "Featured product",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-left",
+        "crown_badge": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "collapsible_content_bjh3E4": {
+      "type": "Collapsible-content",
+      "blocks": {
+        "text_3w7m6x": {
+          "type": "text",
+          "settings": {
+            "heading": "Frequently asked question",
+            "page_content": "",
+            "description": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "text_QxhmFG": {
+          "type": "text",
+          "settings": {
+            "heading": "Frequently asked question",
+            "page_content": "",
+            "description": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "text_GypPfJ": {
+          "type": "text",
+          "settings": {
+            "heading": "Frequently asked question",
+            "page_content": "",
+            "description": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_3w7m6x",
+        "text_QxhmFG",
+        "text_GypPfJ"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "style": "vertical",
+        "heading": "Collapsible content",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "description": "Use this text to share information about your brand with your customers.",
+        "enable_blur_overlay": true,
+        "default_open": "none",
+        "heading_color": "#000000",
+        "description_color": "#000000",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "video_banner_RwNCy3": {
+      "type": "video-banner",
+      "settings": {
+        "section_visibility": "always",
+        "video_full_width": false,
+        "autoplay": false,
+        "video_height": "550px",
+        "mobile_video_height": "650px",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "heading": "Video banner heading",
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "description": "<p>Add short description here</p>",
+        "play_btn_text": "Play now",
+        "content_width": "small",
+        "content_position": "center",
+        "content_alignment": "center_center",
+        "heading_marquee": false,
+        "direction": "rtl",
+        "scrolling_speed": 15,
+        "scrolling_speed_mobile": 20,
+        "desktop_heading_size": 20,
+        "mobile_heading_size": 20,
+        "color_scheme": "",
+        "text": "#ffffff",
+        "button": "#000000",
+        "btn_shadow_color": "#ececec",
+        "button_text": "#ffffff",
+        "button_hover": "#000000",
+        "button_hover_text": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 40,
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "multi_column_NAxMei": {
+      "type": "multi-column",
+      "blocks": {
+        "icon_with_text_FkWdcg": {
+          "type": "icon-with-text",
+          "settings": {
+            "icon_list": "shipping",
+            "icon": "",
+            "image_size": "medium",
+            "heading": "Add heading",
+            "heading_size": "h6",
+            "seo_heading": "h6",
+            "description": "Add short description for this block",
+            "column_border_color": "#d4d4d4",
+            "column_shadow": "#d4d4d4",
+            "column_background_color": "#ffffff",
+            "icon_background_color": "#d4d4d4",
+            "text_color": "#000000",
+            "custom_icon_color": "#000000"
+          }
+        },
+        "icon_with_text_bR4pWQ": {
+          "type": "icon-with-text",
+          "settings": {
+            "icon_list": "shipping",
+            "icon": "",
+            "image_size": "medium",
+            "heading": "Add heading",
+            "heading_size": "h6",
+            "seo_heading": "h6",
+            "description": "Add short description for this block",
+            "column_border_color": "#d4d4d4",
+            "column_shadow": "#d4d4d4",
+            "column_background_color": "#ffffff",
+            "icon_background_color": "#d4d4d4",
+            "text_color": "#000000",
+            "custom_icon_color": "#000000"
+          }
+        },
+        "icon_with_text_MV7i3j": {
+          "type": "icon-with-text",
+          "settings": {
+            "icon_list": "shipping",
+            "icon": "",
+            "image_size": "medium",
+            "heading": "Add heading",
+            "heading_size": "h6",
+            "seo_heading": "h6",
+            "description": "Add short description for this block",
+            "column_border_color": "#d4d4d4",
+            "column_shadow": "#d4d4d4",
+            "column_background_color": "#ffffff",
+            "icon_background_color": "#d4d4d4",
+            "text_color": "#000000",
+            "custom_icon_color": "#000000"
+          }
+        },
+        "icon_with_text_FtCJ4m": {
+          "type": "icon-with-text",
+          "settings": {
+            "icon_list": "shipping",
+            "icon": "",
+            "image_size": "medium",
+            "heading": "Add heading",
+            "heading_size": "h6",
+            "seo_heading": "h6",
+            "description": "Add short description for this block",
+            "column_border_color": "#d4d4d4",
+            "column_shadow": "#d4d4d4",
+            "column_background_color": "#ffffff",
+            "icon_background_color": "#d4d4d4",
+            "text_color": "#000000",
+            "custom_icon_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "icon_with_text_FkWdcg",
+        "icon_with_text_bR4pWQ",
+        "icon_with_text_MV7i3j",
+        "icon_with_text_FtCJ4m"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "container_width": "sm",
+        "heading": "Multicolumns",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "column_count": 4,
+        "column_count_mobile": "2",
+        "column_background": true,
+        "show_border": true,
+        "enable_card_shadow": false,
+        "content_alignment": "text-center",
+        "icon_position": "top",
+        "icon_size": "large",
+        "icon_background": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "settings": {
+        "desktop_height": "300px",
+        "mobile_height": "200px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#B3B3B3",
+        "text_color": "",
+        "background_color": "#B3B3B3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "featured_product_ikjPRt",
+    "collapsible_content_bjh3E4",
+    "video_banner_RwNCy3",
+    "multi_column_NAxMei"
+  ]
+}

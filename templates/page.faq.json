@@ -1,0 +1,140 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "desktop_height": "300px",
+        "mobile_height": "200px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#b3b3b3",
+        "text_color": "",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 60,
+        "bottom_space_desktop": 60,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "collapsible_content_Chnhmg": {
+      "type": "Collapsible-content",
+      "blocks": {
+        "text_MgQVJj": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Is it safe to purchase game keys from your site?</strong>",
+            "page_content": "",
+            "description": "<p>Yes, all transactions on our site are secure and we provide genuine game keys sourced from authorized distributors.</p>"
+          }
+        },
+        "text_iJgmE6": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Do you offer any discounts or promotions?</strong>",
+            "page_content": "",
+            "description": "<p>Yes, we regularly offer discounts and promotions on various games. Be sure to check our homepage and subscribe to our newsletter for the latest deals.</p>"
+          }
+        },
+        "text_FXTwne": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Do game keys have regional restrictions?</strong>",
+            "page_content": "",
+            "description": "<p>Some game keys may be region-locked and can only be activated in certain regions. Please check the product details for any regional restrictions before purchasing.</p>"
+          }
+        },
+        "text_aFw4hR": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>What payment methods do you accept?</strong>",
+            "page_content": "",
+            "description": "<p>We accept various payment methods but these methods may vary depending on region. You can see a list of payment methods available for your region when you are in the checkout page.</p>"
+          }
+        },
+        "text_bNHFhg": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>How do I redeem my game key?</strong>",
+            "page_content": "",
+            "description": "<p>Instructions for redeeming game keys can vary by platform. Typically, you would go to the platform’s website or client, log in, and enter the key in the designated area for game activation.</p>"
+          }
+        },
+        "text_DyUX4q": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>When will I receive my game key after purchase?</strong>",
+            "page_content": "",
+            "description": "<p>Game keys are usually delivered immediately via email upon successful payment, but it may take up to a few minutes depending on the payment method and system load.</p>"
+          }
+        },
+        "text_8rWR3m": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>How can I contact customer support?</strong>",
+            "page_content": "",
+            "description": "<p>You can contact our customer support via the contact form on our website. Our support team will get back to you within 24 hours.</p>"
+          }
+        },
+        "text_Tntxe4": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Can I get a refund if the game key doesn’t work?</strong>",
+            "page_content": "",
+            "description": "<p>If you encounter any issues with your game key, please contact our customer support. We offer refunds or replacements for keys that are proven to be faulty.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MgQVJj",
+        "text_iJgmE6",
+        "text_FXTwne",
+        "text_aFw4hR",
+        "text_bNHFhg",
+        "text_DyUX4q",
+        "text_8rWR3m",
+        "text_Tntxe4"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "style": "vertical",
+        "heading": "Frequently Asked Questions",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "description": "",
+        "enable_blur_overlay": true,
+        "default_open": "none",
+        "heading_color": "#000000",
+        "description_color": "#000000",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 50,
+        "bottom_space_desktop": 60,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "collapsible_content_Chnhmg"
+  ]
+}

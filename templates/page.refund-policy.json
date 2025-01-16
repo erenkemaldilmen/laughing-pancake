@@ -1,0 +1,171 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "desktop_height": "300px",
+        "mobile_height": "200px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#b3b3b3",
+        "text_color": "",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "collapsible_content_ycBtdP": {
+      "type": "Collapsible-content",
+      "blocks": {
+        "text_mBEmtV": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Eligibility for Refunds</strong>",
+            "page_content": "",
+            "description": "<p>You may be eligible for a refund under the following conditions</p><p></p><ul><li><strong>Non-working Keys:</strong> If the game key you purchased is found to be invalid or does not work, despite following the proper activation instructions.</li></ul><p></p><ul><li><strong>Duplicate Purchases:</strong> If you accidentally purchased the same game key more than once, provided the duplicate key has not been downloaded.</li></ul>"
+          }
+        },
+        "text_aA3N6w": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Conditions for Refunds</strong>",
+            "page_content": "",
+            "description": "<p>To qualify for a refund, the following conditions must be met:</p><p></p><ul><li><strong>Proof of Issue:</strong> You must provide a clear explanation and evidence of the issue you are experiencing with the game key.</li></ul><p></p><ul><li><strong>Timely Request:</strong> Refund requests must be made within 14 days of purchase. Requests made after this period will not be eligible for a refund.</li></ul><p></p><ul><li><strong>Unredeemed and Non-Downloaded Keys:</strong> The game key must not have been redeemed, used, or downloaded. Keys that have already been activated or downloaded are not eligible for a refund.</li></ul><p></p>"
+          }
+        },
+        "text_rG8LqH": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Non-Refundable Situations</strong>",
+            "page_content": "",
+            "description": "<p>We do not offer refunds in the following situations:</p><p></p><ul><li><strong>Compatibility Issues:</strong> If your system does not meet the game’s requirements, it is your responsibility to verify this before purchasing.</li></ul><p></p><ul><li><strong>Regional Restrictions:</strong> If the game key is region-locked and you attempt to use it in a non-supported region, unless the restriction was not clearly mentioned at the time of purchase.</li></ul><p></p><ul><li><strong>Downloaded Keys:</strong> If the game key has been downloaded and thus seen by users, a refund will not be possible.</li></ul>"
+          }
+        },
+        "text_Rk3qJA": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>How to Request a Refund</strong>",
+            "page_content": "",
+            "description": "<p>If you meet the criteria for a refund, follow these steps to request one</p><p></p><ul><li><strong>Contact Support:</strong> Email our customer support at info@gamesporium.com or use the contact form on our website.</li></ul><p></p><ul><li><strong>Provide Details:</strong> Include your order number, the game key in question, and a detailed description of the issue.</li></ul><p></p><ul><li><strong>Await Response:</strong> Our support team will review your request and respond within 48 hours.</li></ul>"
+          }
+        },
+        "text_mYNCdE": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Refund Process</strong>",
+            "page_content": "",
+            "description": "<p>Once your refund request is approved</p><p></p><ul><li><strong>Processing Time:</strong> Refunds are typically processed within 5-7 business days.</li></ul><p></p><ul><li><strong>Payment Method:</strong> Refunds will be issued to the original payment method used during the purchase.</li></ul><p></p><ul><li><strong>Confirmation:</strong> You will receive an email confirmation once the refund has been processed.</li></ul>"
+          }
+        },
+        "text_YVE7mj": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Customer Support</strong>",
+            "page_content": "",
+            "description": "<p>If you have any questions or need further assistance, please do not hesitate to contact our customer support team</p><p></p><ul><li><strong>Email:</strong> info@gamesporium.com</li></ul><p></p><ul><li><strong>Contact Form:  </strong>Available on the Gamesporium website</li></ul>"
+          }
+        },
+        "text_Kq8MXe": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Updates to This Policy</strong>",
+            "page_content": "",
+            "description": "<p>We reserve the right to update or modify this refund policy at any time. Any changes will be posted on this page, and the date of the latest revision will be indicated at the top.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_mBEmtV",
+        "text_aA3N6w",
+        "text_rG8LqH",
+        "text_Rk3qJA",
+        "text_mYNCdE",
+        "text_YVE7mj",
+        "text_Kq8MXe"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "style": "vertical",
+        "heading": "<strong>Refund Policy</strong>",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "description": "At Gamesporium, we strive to provide the best customer experience and ensure your satisfaction with every purchase. Below you will find our refund policy regarding game key purchases.",
+        "enable_blur_overlay": true,
+        "default_open": "all",
+        "heading_color": "#000000",
+        "description_color": "#000000",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "rich_text_WK6WJK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_46Bbwe": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_animation": false,
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_Vjhari": {
+          "type": "text",
+          "settings": {
+            "text": "<p></p><p>Thank you for choosing gamesporium.com. We appreciate your business and are here to help ensure you have a smooth and enjoyable experience.</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_46Bbwe",
+        "text_Vjhari"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "content_width": "large",
+        "content_alignment": "text-center",
+        "content_postion": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 10,
+        "bottom_space_desktop": 10,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 10
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "collapsible_content_ycBtdP",
+    "rich_text_WK6WJK"
+  ]
+}

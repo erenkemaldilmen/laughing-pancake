@@ -1,0 +1,46 @@
+{% liquid
+  assign preorder = false
+  if settings.enable_preorder and current_variant.inventory_policy == 'continue' and current_variant.inventory_quantity <= 0
+    assign preorder = true
+  endif
+%}
+<div class="pdp-action-wrapper">
+  {% comment %} {% if stickyProduct %} 
+    {{ quantitySelectorBlock }}
+  {% endif %} {% endcomment %}
+    <button      
+      {% unless stickyProduct %}
+        id="AddToCart-{{ formid }}"  
+      {% endunless %}
+      type="submit"
+      name="add"
+      class="{% if stickyProduct %}medium-btn button{% else %} large-btn button{% endif %}{% if settings.enable_button_shadow %} button-shadow{% endif %}"
+      {% if stickyProduct %} 
+        data-form="{{ formid }}"
+      {% endif %}
+      {% if settings.Cart_type == 'drawer' %}
+        data-add-to-cart
+        data-side-drawer-open
+      {% endif %}
+      {% if current_variant.available == false %}
+        disabled="true"
+        data-sold-out
+      {% endif %}
+
+     {% unless current_variant.available %}disabled {% elsif settings.enable_terms_checkbox and settings.terms_conditions_text != blank %}disabled{% endunless %} >
+      {%- unless current_variant.available -%}
+        <span>{{ 'products.product.sold_out' | t }}</span>
+      {%- else -%}
+        {%- if preorder -%}
+          <span>{{ 'products.product.preorder' | t }}</span>
+        {%- else -%}
+          <span>{{ 'products.product.add_to_cart' | t }}</span>
+        {%- endif -%}
+      {%- endunless -%}
+    </button>
+    {% unless stickyProduct %}
+      {%- if block.settings.show_dynamic_checkout and current_variant.available -%}
+        {{ form | payment_button }}
+      {%- endif -%}
+    {% endunless %}
+  </div>

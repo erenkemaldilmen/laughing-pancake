@@ -1,0 +1,424 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "desktop_height": "300px",
+        "mobile_height": "200px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#b3b3b3",
+        "text_color": "",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "countdown_yYFcEy": {
+      "type": "countdown",
+      "settings": {
+        "section_visibility": "always",
+        "heading": "Gamesporium Prime",
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "sub_heading": "",
+        "textstyle": "large-case",
+        "content": "",
+        "year": 2025,
+        "month": "03",
+        "day": "01",
+        "hours": "01",
+        "minutes": "00",
+        "layout": "center",
+        "bg__color": "gradient",
+        "gradient_color": "linear-gradient(320deg, rgba(56, 78, 197, 0.56) 16%, rgba(203, 68, 194, 0.6) 52%, rgba(255, 201, 104, 0.95) 87%)",
+        "solid_color": "#ffffff",
+        "enable_innner_background": true,
+        "product_list": [],
+        "grid_image_size": "auto",
+        "grid_image_fit": "cover",
+        "text_color": "#000000",
+        "highlight_text_color": "#ffffff",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 10,
+        "bottom_space_desktop": 10,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 10
+      }
+    },
+    "rich_text_DagCza": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dd4yNm": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_animation": false,
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_cQjgTT": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Gamesporium is thrilled to announce the upcoming launch of Gamesporium Prime – our exclusive subscription service designed to elevate your gaming experience to new heights.</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dd4yNm",
+        "text_cQjgTT"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "content_width": "large",
+        "content_alignment": "text-center",
+        "content_postion": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 10,
+        "bottom_space_desktop": 10,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 10
+      }
+    },
+    "image_with_text_carousel_XWwj6q": {
+      "type": "image-with-text-carousel",
+      "blocks": {
+        "image_with_text_YByr6T": {
+          "type": "image-with-text",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_at_Oct_22_01-06-57.png",
+            "image_position": "left",
+            "icon_text": "",
+            "heading": "What is Gamesporium Prime?",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Gamesporium Prime is a subscription service that offers exclusive benefits, including discounts on games and gift cards, early access to new releases, monthly free games, and priority customer support.</p>",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "button_size": "medium",
+            "content_alignment": "center",
+            "content_position": "center",
+            "container_bg": "#ffffff",
+            "heading_color": "#0b0e0d",
+            "text_color": "#0b0e0d",
+            "highlight_color": "#000000",
+            "card_border_color": "#000000",
+            "button_bg": "#000000",
+            "btn_shadow_color": "#575757",
+            "button_bg_hover": "#ffffff",
+            "link_color": "#ffffff",
+            "link_color_hover": "#0b0e0d",
+            "border_color": "#000000",
+            "border_color_hover": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_YByr6T"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "enable_fullwidth": false,
+        "enable_card_border": false,
+        "enable_image_zoom": true,
+        "carousel_type": "carousel",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "desktop_height": "550px",
+        "desktop_width": "large",
+        "mobile_height": "450px",
+        "image_fit": "cover",
+        "enable_custom_radius": false,
+        "card_radius_desktop": 0,
+        "card_radius_mobile": 0,
+        "dots_color": "#0b0e0d",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "image_with_text_carousel_bAPLYg": {
+      "type": "image-with-text-carousel",
+      "blocks": {
+        "image_with_text_DTtcVt": {
+          "type": "image-with-text",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_at_Oct_22_01-06-57.png",
+            "image_position": "right",
+            "icon_text": "",
+            "heading": "When will Gamesporium Prime launch?",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Gamesporium Prime will launch on March 1st, 2025.</p><p></p><p>Stay tuned for further updates..</p>",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "button_size": "medium",
+            "content_alignment": "center",
+            "content_position": "center",
+            "container_bg": "#ffffff",
+            "heading_color": "#0b0e0d",
+            "text_color": "#0b0e0d",
+            "highlight_color": "#000000",
+            "card_border_color": "#000000",
+            "button_bg": "#000000",
+            "btn_shadow_color": "#575757",
+            "button_bg_hover": "#ffffff",
+            "link_color": "#ffffff",
+            "link_color_hover": "#0b0e0d",
+            "border_color": "#000000",
+            "border_color_hover": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_DTtcVt"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "enable_fullwidth": false,
+        "enable_card_border": false,
+        "enable_image_zoom": true,
+        "carousel_type": "carousel",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "desktop_height": "550px",
+        "desktop_width": "large",
+        "mobile_height": "450px",
+        "image_fit": "cover",
+        "enable_custom_radius": false,
+        "card_radius_desktop": 0,
+        "card_radius_mobile": 0,
+        "dots_color": "#0b0e0d",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "image_with_text_carousel_XcPWF7": {
+      "type": "image-with-text-carousel",
+      "blocks": {
+        "image_with_text_bPDpU9": {
+          "type": "image-with-text",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_at_Oct_22_01-06-57.png",
+            "image_position": "left",
+            "icon_text": "",
+            "heading": "How can I stay updated?",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Sign up for our newsletter to receive the latest news and updates about Gamesporium Prime. Follow us on social media and join our community for real-time information.</p>",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "button_size": "medium",
+            "content_alignment": "center",
+            "content_position": "center",
+            "container_bg": "#ffffff",
+            "heading_color": "#0b0e0d",
+            "text_color": "#0b0e0d",
+            "highlight_color": "#000000",
+            "card_border_color": "#000000",
+            "button_bg": "#000000",
+            "btn_shadow_color": "#575757",
+            "button_bg_hover": "#ffffff",
+            "link_color": "#ffffff",
+            "link_color_hover": "#0b0e0d",
+            "border_color": "#000000",
+            "border_color_hover": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_bPDpU9"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "enable_fullwidth": false,
+        "enable_card_border": false,
+        "enable_image_zoom": true,
+        "carousel_type": "carousel",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "desktop_height": "550px",
+        "desktop_width": "large",
+        "mobile_height": "450px",
+        "image_fit": "cover",
+        "enable_custom_radius": false,
+        "card_radius_desktop": 0,
+        "card_radius_mobile": 0,
+        "dots_color": "#0b0e0d",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "image_with_text_carousel_8EAJJe": {
+      "type": "image-with-text-carousel",
+      "blocks": {
+        "image_with_text_AUBztn": {
+          "type": "image-with-text",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_at_Oct_22_01-06-57.png",
+            "image_position": "right",
+            "icon_text": "",
+            "heading": "How much will the subscription cost?",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>The subscription fee for Gamesporium Prime will be €9.99 per month.</p>",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "button_size": "medium",
+            "content_alignment": "center",
+            "content_position": "center",
+            "container_bg": "#ffffff",
+            "heading_color": "#0b0e0d",
+            "text_color": "#0b0e0d",
+            "highlight_color": "#000000",
+            "card_border_color": "#000000",
+            "button_bg": "#000000",
+            "btn_shadow_color": "#575757",
+            "button_bg_hover": "#ffffff",
+            "link_color": "#ffffff",
+            "link_color_hover": "#0b0e0d",
+            "border_color": "#000000",
+            "border_color_hover": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_AUBztn"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "enable_fullwidth": false,
+        "enable_card_border": false,
+        "enable_image_zoom": true,
+        "carousel_type": "carousel",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "desktop_height": "550px",
+        "desktop_width": "large",
+        "mobile_height": "450px",
+        "image_fit": "cover",
+        "enable_custom_radius": false,
+        "card_radius_desktop": 0,
+        "card_radius_mobile": 0,
+        "dots_color": "#0b0e0d",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "rich_text_b3j7Tx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EryUmU": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_animation": false,
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_i9RymC": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Dont forget to follow us on our social media channels to be notified as soon as Gamesporium goes live!</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EryUmU",
+        "text_i9RymC"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "content_width": "large",
+        "content_alignment": "text-center",
+        "content_postion": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 10,
+        "bottom_space_desktop": 10,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 10
+      }
+    },
+    "custom_liquid_9mtGRh": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "section_visibility": "always",
+        "custom_liquid": "{{ 'account.css' | asset_url | stylesheet_tag }}\n{% liquid\n  assign Colorscheme = section.settings.color_scheme\n%}\n<div class=\"scheme-{{ Colorscheme }}{% if section.settings.enable_gradient %} gradiant{% endif %} section-padding\">\n  <div class=\"{{ settings.layout_style }}\">\n    <div class=\"customer register\">\n      <h2 class=\"account-form-heading h2\">{{ 'customer.register.title' | t }}</h2>\n      {%- form 'create_customer', novalidate: 'novalidate' -%}\n        {%- if form.errors -%}\n          <div class=\"form-message error\" tabindex=\"-1\" autofocus>\n            {{ 'templates.contact.form.error_heading' | t }}\n            <ul>\n            {%- for field in form.errors -%}\n              <li>\n                {%- if field == 'form' -%}\n                  {{ form.errors.messages[field] }}\n                {%- else -%}\n                  <a href=\"#RegisterForm-{{ field }}\">\n                    {{ form.errors.translated_fields[field] | capitalize }}\n                    {{ form.errors.messages[field] }}\n                  </a>\n                {%- endif -%}\n              </li>\n            {%- endfor -%}\n          </ul>\n          </div>\n          \n        {%- endif -%}\n        <div class=\"form-group\">\n          <label for=\"RegisterForm-FirstName\">\n            {{ 'customer.register.first_name' | t }}\n          </label>\n          <input\n            type=\"text\"\n            class=\"form-control{% if settings.enable_input_shadow %} small-shadow-enabled{% endif %}\"\n            name=\"customer[first_name]\"\n            id=\"RegisterForm-FirstName\"\n            {% if form.first_name %}\n              value=\"{{ form.first_name }}\"\n            {% endif %}\n            autocomplete=\"given-name\"\n            placeholder=\"{{ 'customer.register.first_name' | t }}\"\n          >\n        </div>\n        <div class=\"form-group\">\n          <label for=\"RegisterForm-LastName\">\n            {{ 'customer.register.last_name' | t }}\n          </label>\n          <input\n            type=\"text\"\n            name=\"customer[last_name]\"\n            class=\"form-control{% if settings.enable_input_shadow %} small-shadow-enabled{% endif %}\"\n            id=\"RegisterForm-LastName\"\n            {% if form.last_name %}\n              value=\"{{ form.last_name }}\"\n            {% endif %}\n            autocomplete=\"family-name\"\n            placeholder=\"{{ 'customer.register.last_name' | t }}\"\n          >\n        </div>\n        <div class=\"form-group\">\n          <label for=\"RegisterForm-email\">\n            {{ 'customer.register.email' | t }}\n          </label>\n          <input\n            type=\"email\"\n            name=\"customer[email]\"\n            class=\"form-control{% if settings.enable_input_shadow %} small-shadow-enabled{% endif %}\"\n            id=\"RegisterForm-email\"\n            {% if form.email %}\n              value=\"{{ form.email }}\"\n            {% endif %}\n            spellcheck=\"false\"\n            autocapitalize=\"off\"\n            autocomplete=\"email\"\n            aria-required=\"true\"\n            {% if form.errors contains 'email' %}\n              aria-invalid=\"true\"\n              aria-describedby=\"RegisterForm-email-error\"\n            {% endif %}\n            placeholder=\"{{ 'customer.register.email' | t }}\"\n          >\n        </div>\n        \n        <div class=\"form-group\">\n          <label for=\"RegisterForm-password\">\n            {{ 'customer.register.password' | t }}\n          </label>\n          <input\n            type=\"password\"\n            class=\"form-control{% if settings.enable_input_shadow %} small-shadow-enabled{% endif %}\"\n            name=\"customer[password]\"\n            id=\"RegisterForm-password\"\n            aria-required=\"true\"\n            {% if form.errors contains 'password' %}\n              aria-invalid=\"true\"\n              aria-describedby=\"RegisterForm-password-error\"\n            {% endif %}\n            placeholder=\"{{ 'customer.register.password' | t }}\"\n          >\n        </div>\n        \n        <button class=\"button large-btn btn-block{% if settings.enable_button_shadow %} button-shadow{% endif %}\">{{ 'customer.register.submit' | t }}</button>\n        <div class=\"create-account-text text-center\">\n          <p class=\"text-medium\">\n            <span class=\"create-account-text-info\">{{ 'customer.login_page.already_account' | t }}</span>\n            <a href=\"{{ routes.account_login_url }}\" class=\"hyperlink\"><strong>{{ 'customer.login_page.login' | t }}</strong></a>\n          </p>\n        </div>\n      {% endform %}\n    </div>\n  </div>\n</div>",
+        "text_alignment": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "countdown_yYFcEy",
+    "rich_text_DagCza",
+    "image_with_text_carousel_XWwj6q",
+    "image_with_text_carousel_bAPLYg",
+    "image_with_text_carousel_XcPWF7",
+    "image_with_text_carousel_8EAJJe",
+    "rich_text_b3j7Tx",
+    "custom_liquid_9mtGRh"
+  ]
+}

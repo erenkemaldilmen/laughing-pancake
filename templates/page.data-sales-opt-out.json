@@ -1,0 +1,86 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "desktop_height": "300px",
+        "mobile_height": "200px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#b3b3b3",
+        "text_color": "",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 50,
+        "bottom_space_desktop": 50,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "collapsible_content_eNp3c4": {
+      "type": "Collapsible-content",
+      "blocks": {
+        "text_jggEjw": {
+          "type": "text",
+          "settings": {
+            "heading": "What is Data Sales Opt-Out",
+            "page_content": "",
+            "description": "<p>As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and similar technologies. We may also share this personal information with third parties, including advertising partners. We do this in order to show you ads on other websites that are more relevant to your interests and for other reasons outlined in our privacy policy.</p><p></p><p>Sharing of personal information for targeted advertising based on your interaction on different websites may be considered \"sales\", \"sharing,\" or \"targeted advertising\" under certain U.S. state privacy laws. Depending on where you live, you may have the right to opt out of these activities. If you would like to exercise this opt-out right, please follow the instructions below.</p>"
+          }
+        },
+        "text_pFJFBj": {
+          "type": "text",
+          "settings": {
+            "heading": "How To Opt-Out Of Sharing Data",
+            "page_content": "",
+            "description": "<p>If you visit our website with the Global Privacy Control opt-out preference signal enabled, depending on where you are, we will treat this as a request to opt-out of activity that may be considered a “sale” or “sharing” of personal information or other uses that may be considered targeted advertising for the device and browser you used to visit our website.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_jggEjw",
+        "text_pFJFBj"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "style": "vertical",
+        "heading": "<strong>Data sales opt-out</strong>",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "description": "",
+        "enable_blur_overlay": true,
+        "default_open": "all",
+        "heading_color": "#000000",
+        "description_color": "#000000",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "collapsible_content_eNp3c4"
+  ]
+}

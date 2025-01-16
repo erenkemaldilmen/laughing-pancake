@@ -1,0 +1,606 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "desktop_height": "200px",
+        "mobile_height": "100px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#b3b3b3",
+        "text_color": "",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "parallax_dJGwDJ": {
+      "type": "parallax",
+      "blocks": {
+        "heading_Tekn3q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Heading here",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "text_color": "#000000",
+            "highlight_color": "#ffca10",
+            "highlight_gradient_color": "linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%)",
+            "highlight_solid_color": "#ffffff",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_pzAwb4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this description about your brand with your customers.</p>",
+            "description_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Tekn3q",
+        "text_pzAwb4"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "desktop_height": 600,
+        "mobile_height": 400,
+        "content_width": "large",
+        "desktop_content_position": "center_center",
+        "desktop_alignment": "left",
+        "mobile_content_position": "center_center",
+        "mobile_alignment": "left",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0.3
+      }
+    },
+    "numbers_yNETiM": {
+      "type": "numbers",
+      "blocks": {
+        "numbers_item_zQVXKB": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 350,
+            "heading_unit": "+",
+            "heading": "Games & Gift Cards",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "eye",
+            "enable_icon_bg": false,
+            "icon_bg_color": "#ffffff",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        },
+        "numbers_item_PwDNHP": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 49,
+            "heading_unit": "+",
+            "heading": "Publishers",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "thumb",
+            "enable_icon_bg": false,
+            "icon_bg_color": "#ffffff",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        },
+        "numbers_item_46WxHm": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 3000,
+            "heading_unit": "+",
+            "heading": "Customers",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "thumb",
+            "enable_icon_bg": false,
+            "icon_bg_color": "#ffffff",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        },
+        "numbers_item_TdzjHB": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 10000,
+            "heading_unit": "+",
+            "heading": "Games Sold",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "thumb",
+            "enable_icon_bg": false,
+            "icon_bg_color": "#ffffff",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        },
+        "numbers_item_TmHppx": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 1000,
+            "heading_unit": "+",
+            "heading": "Heading",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "thumb",
+            "enable_icon_bg": false,
+            "icon_bg_color": "#ffffff",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "numbers_item_zQVXKB",
+        "numbers_item_PwDNHP",
+        "numbers_item_46WxHm",
+        "numbers_item_TdzjHB",
+        "numbers_item_TmHppx"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "numbers_layout": "grid",
+        "columns_count": 3,
+        "columns_count_mobile": "1",
+        "heading": "About us - numbers",
+        "highlight_style": "underline",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "description": "Add short description here",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 20,
+        "bottom_space_mobile": 25
+      }
+    },
+    "media_grid_jTn3eV": {
+      "type": "media-grid",
+      "blocks": {
+        "grid_zjfehT": {
+          "type": "grid",
+          "settings": {
+            "column": 4,
+            "row": 2,
+            "heading": "Add media heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Add short description for this block</p>",
+            "content_position": "center-left",
+            "content_alignment": "left",
+            "content_width": "small",
+            "btn_text": "Button label",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "heading_color": "#ffffff",
+            "text_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_shadow_color": "#000000",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#ffffff",
+            "btn_hover_color": "#000000",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#000000",
+            "background_color": "#000000",
+            "background_opacity": 0.3
+          }
+        },
+        "grid_xf8eRE": {
+          "type": "grid",
+          "settings": {
+            "column": 4,
+            "row": 1,
+            "heading": "Add media heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Add short description for this block</p>",
+            "content_position": "center-left",
+            "content_alignment": "left",
+            "content_width": "small",
+            "btn_text": "Button label",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "heading_color": "#ffffff",
+            "text_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_shadow_color": "#000000",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#ffffff",
+            "btn_hover_color": "#000000",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#000000",
+            "background_color": "#000000",
+            "background_opacity": 0.3
+          }
+        },
+        "grid_LNFLrX": {
+          "type": "grid",
+          "settings": {
+            "column": 4,
+            "row": 1,
+            "heading": "Add media heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Add short description for this block</p>",
+            "content_position": "center-left",
+            "content_alignment": "left",
+            "content_width": "small",
+            "btn_text": "Button label",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "heading_color": "#ffffff",
+            "text_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_shadow_color": "#000000",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#ffffff",
+            "btn_hover_color": "#000000",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#000000",
+            "background_color": "#000000",
+            "background_opacity": 0.3
+          }
+        }
+      },
+      "block_order": [
+        "grid_zjfehT",
+        "grid_xf8eRE",
+        "grid_LNFLrX"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "section_width": false,
+        "container_width": "global_setting",
+        "desktop_row_height": 400,
+        "mobile_row_height": 200,
+        "desktop_grid_gap": 5,
+        "mobile_grid_gap": 5,
+        "enable_shadow": false,
+        "enable_hover_content": false,
+        "heading": "For bundle or top sellers",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "slideshow_4kQGUB": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_zxzb3T": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/header_5_0d7b44af-d259-490d-bc8c-c9b421837eca.jpg",
+            "subheading": "",
+            "heading": "Heading",
+            "heading_size": "h1",
+            "seo_heading": "h1",
+            "font_family": "heading",
+            "description": "Use this text to share information about your brand with your customers.",
+            "button_size": "large",
+            "btn_text": "Button text",
+            "btn_link": "shopify://collections/all",
+            "slide_as_link": false,
+            "button_as_link": false,
+            "btn_text2": "Button text",
+            "btn_link2": "shopify://collections/all",
+            "button_as_link2": false,
+            "content_width": "large",
+            "desktop_content_position": "d-center-left",
+            "desktop_alignment": "d-text-left",
+            "mobile_content_position": "m-center",
+            "mobile_alignment": "m-text-left",
+            "content_overlay_color": "#ffffff",
+            "content_overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "subtext_color": "#000000",
+            "text_color": "#000000",
+            "description_color": "#000000",
+            "btn_bg_color": "#0b0e0d",
+            "btn_shadow_color": "#ececec",
+            "btn_text_color": "#ffffff",
+            "btn_border_color": "#5c5b5b",
+            "btn_hover_color": "#0b0e0d",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#5c5b5b",
+            "m_subtext_color": "#000000",
+            "m_text_color": "#b3b3b3",
+            "m_description_color": "#b3b3b3",
+            "m_btn_bg_color": "#0b0e0d",
+            "m_btn_shadow_color": "#000000",
+            "m_btn_text_color": "#ffffff",
+            "m_btn_border_color": "#b3b3b3"
+          }
+        },
+        "slide_Vd8QeB": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/header_6_929be808-1ffe-46a7-87cf-24c29980b93e.jpg",
+            "subheading": "",
+            "heading": "Heading",
+            "heading_size": "h1",
+            "seo_heading": "h1",
+            "font_family": "heading",
+            "description": "Use this text to share information about your brand with your customers.",
+            "button_size": "large",
+            "btn_text": "Button text",
+            "btn_link": "shopify://collections/all",
+            "slide_as_link": false,
+            "button_as_link": false,
+            "btn_text2": "Button text",
+            "btn_link2": "shopify://collections/all",
+            "button_as_link2": false,
+            "content_width": "large",
+            "desktop_content_position": "d-center",
+            "desktop_alignment": "d-text-left",
+            "mobile_content_position": "m-center",
+            "mobile_alignment": "m-text-left",
+            "content_overlay_color": "#ffffff",
+            "content_overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "subtext_color": "#000000",
+            "text_color": "#000000",
+            "description_color": "#000000",
+            "btn_bg_color": "#0b0e0d",
+            "btn_shadow_color": "#ececec",
+            "btn_text_color": "#ffffff",
+            "btn_border_color": "#5c5b5b",
+            "btn_hover_color": "#0b0e0d",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#5c5b5b",
+            "m_subtext_color": "#000000",
+            "m_text_color": "#b3b3b3",
+            "m_description_color": "#b3b3b3",
+            "m_btn_bg_color": "#0b0e0d",
+            "m_btn_shadow_color": "#000000",
+            "m_btn_text_color": "#ffffff",
+            "m_btn_border_color": "#b3b3b3"
+          }
+        },
+        "slide_bVmhTj": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/header_2_2e160bd3-18bf-4a38-bd80-3794f5e11cc3.jpg",
+            "subheading": "",
+            "heading": "Heading",
+            "heading_size": "h1",
+            "seo_heading": "h1",
+            "font_family": "heading",
+            "description": "Use this text to share information about your brand with your customers.",
+            "button_size": "large",
+            "btn_text": "Button text",
+            "btn_link": "shopify://collections/all",
+            "slide_as_link": false,
+            "button_as_link": false,
+            "btn_text2": "Button text",
+            "btn_link2": "shopify://collections/all",
+            "button_as_link2": false,
+            "content_width": "large",
+            "desktop_content_position": "d-center",
+            "desktop_alignment": "d-text-left",
+            "mobile_content_position": "m-center",
+            "mobile_alignment": "m-text-left",
+            "content_overlay_color": "#ffffff",
+            "content_overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "subtext_color": "#000000",
+            "text_color": "#000000",
+            "description_color": "#000000",
+            "btn_bg_color": "#0b0e0d",
+            "btn_shadow_color": "#ececec",
+            "btn_text_color": "#ffffff",
+            "btn_border_color": "#5c5b5b",
+            "btn_hover_color": "#0b0e0d",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#5c5b5b",
+            "m_subtext_color": "#000000",
+            "m_text_color": "#b3b3b3",
+            "m_description_color": "#b3b3b3",
+            "m_btn_bg_color": "#0b0e0d",
+            "m_btn_shadow_color": "#000000",
+            "m_btn_text_color": "#ffffff",
+            "m_btn_border_color": "#b3b3b3"
+          }
+        }
+      },
+      "block_order": [
+        "slide_zxzb3T",
+        "slide_Vd8QeB",
+        "slide_bVmhTj"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "section_style": "section_container",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "slider_thumbnail": "small-thumbnail",
+        "slider_transition": "fade",
+        "desktop_height": "adapt_image",
+        "mobile_height": "adapt_image",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 20,
+        "bottom_space_desktop": 20,
+        "top_space_mobile": 15,
+        "bottom_space_mobile": 15
+      }
+    },
+    "products_collage_TrgjYP": {
+      "type": "products-collage",
+      "settings": {
+        "section_visibility": "always",
+        "hide_mob_icons": false,
+        "product_list": [
+          "children-of-the-sun",
+          "cult-of-the-lamb",
+          "deaths-door",
+          "pepper-grinder",
+          "enter-the-gungeon",
+          "inscryption"
+        ],
+        "heading": "Publisher of the Week!",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "description": "",
+        "btn_text": "",
+        "btn_link": "",
+        "button_as_link": false,
+        "button_size": "small",
+        "button_alignment": "center",
+        "main_image": "shopify://shop_images/Devolver_Digital.svg",
+        "text_alignment": "text-center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "products_with_image_JdC9VK": {
+      "type": "products-with-image",
+      "blocks": {
+        "image_kDRat9": {
+          "type": "Image",
+          "settings": {
+            "image1": "shopify://shop_images/android-chrome-192x192.png",
+            "change_slides_speed": 5,
+            "heading": "",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_size": "small",
+            "pagination_style": "bars",
+            "pagination_position": "bottom",
+            "text_color": "#0b0e0d",
+            "content_overlay_color": "#ffffff",
+            "content_overlay_opacity": 0
+          }
+        },
+        "products_Ctg3bn": {
+          "type": "Products",
+          "settings": {
+            "product_list": [
+              "against-the-storm",
+              "airportsim",
+              "anger-foot",
+              "assassins-creed-valhalla"
+            ],
+            "grid_image_size": "auto",
+            "grid_image_fit": "cover",
+            "desktop_layout": "1",
+            "mobile_layout": "1"
+          }
+        }
+      },
+      "block_order": [
+        "image_kDRat9",
+        "products_Ctg3bn"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "section_width": false,
+        "reverse_block_mobile": false,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "featured_images_j9qcHt": {
+      "type": "featured-images",
+      "settings": {
+        "section_visibility": "always",
+        "image1": "shopify://shop_images/header_b3039a78-13ef-4058-a4cd-bebdd0019e2b.jpg",
+        "image2": "shopify://shop_images/header_29364ffa-1ded-491a-af5d-1c3ce3206ec6.jpg",
+        "image3": "shopify://shop_images/header_28851d91-5a49-4b9d-b70a-bc874f7d7d10.jpg",
+        "image_size": "auto",
+        "heading": "<strong>Our Blogs</strong>",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "description": "",
+        "btn_text": "View All",
+        "btn_link": "shopify://blogs/news",
+        "button_size": "small",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "parallax_dJGwDJ",
+    "numbers_yNETiM",
+    "media_grid_jTn3eV",
+    "slideshow_4kQGUB",
+    "products_collage_TrgjYP",
+    "products_with_image_JdC9VK",
+    "featured_images_j9qcHt"
+  ]
+}

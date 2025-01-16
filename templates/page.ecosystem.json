@@ -1,0 +1,638 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "desktop_height": "300px",
+        "mobile_height": "200px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#b3b3b3",
+        "text_color": "",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "images_banner_cjdpfc": {
+      "type": "images-banner",
+      "blocks": {
+        "image_WwxPLz": {
+          "type": "image",
+          "settings": {
+            "heading": "Excited to launch the Ecosystem Support Program on March 1st!",
+            "description": "",
+            "image": "shopify://shop_images/Ecosystem_Support_134c4d6d-f98f-47d6-a4e0-80d8f2cd8f3f.png",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0.2
+          }
+        }
+      },
+      "block_order": [
+        "image_WwxPLz"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "desktop_image_height": "600px",
+        "mobile_image_height": "400px",
+        "enable_shape": false,
+        "shape_pattern": "shape1",
+        "shape_color": "#ffffff",
+        "shape_opacity": 0,
+        "heading_color": "#000000",
+        "heading_hover_color": "#ffffff",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 110,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "rich_text_4zMqir": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_K7rxhG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Empowering Indie Game Developers and fostering gaming innovation.</strong>",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_animation": false,
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_ftbFqE": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this description about your brand with your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_K7rxhG",
+        "text_ftbFqE"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "content_width": "large",
+        "content_alignment": "text-center",
+        "content_postion": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 10,
+        "bottom_space_desktop": 50,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 35
+      }
+    },
+    "image_with_text_carousel_pdDgJE": {
+      "type": "image-with-text-carousel",
+      "blocks": {
+        "image_with_text_Kcngqy": {
+          "type": "image-with-text",
+          "settings": {
+            "image": "shopify://shop_images/Ecosystem_Support_48bc8b63-eaa8-4ca5-a7b2-7b8683e02ad4.png",
+            "image_position": "left",
+            "icon_text": "",
+            "heading": "WHAT IS THE ECOSYSTEM SUPPORT PROGRAM?",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Ecosystem Support Program is a program designed to foster the growth of indie game developers through various initiatives.</p>",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "button_size": "medium",
+            "content_alignment": "center",
+            "content_position": "center",
+            "container_bg": "#ffffff",
+            "heading_color": "#0b0e0d",
+            "text_color": "#0b0e0d",
+            "highlight_color": "#000000",
+            "card_border_color": "#000000",
+            "button_bg": "#000000",
+            "btn_shadow_color": "#575757",
+            "button_bg_hover": "#ffffff",
+            "link_color": "#ffffff",
+            "link_color_hover": "#0b0e0d",
+            "border_color": "#000000",
+            "border_color_hover": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_Kcngqy"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "enable_fullwidth": false,
+        "enable_card_border": true,
+        "enable_image_zoom": true,
+        "carousel_type": "grid",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "desktop_height": "550px",
+        "desktop_width": "large",
+        "mobile_height": "450px",
+        "image_fit": "cover",
+        "enable_custom_radius": false,
+        "card_radius_desktop": 0,
+        "card_radius_mobile": 0,
+        "dots_color": "#0b0e0d",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "rich_text_DW48zb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BNE6UG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>ECOSYSTEM SUPPORT PROGRAM</strong>",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_animation": false,
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_7eT8kA": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this description about your brand with your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BNE6UG",
+        "text_7eT8kA"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "content_width": "medium",
+        "content_alignment": "text-center",
+        "content_postion": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 25,
+        "bottom_space_mobile": 10
+      }
+    },
+    "media_grid_adi3zP": {
+      "type": "media-grid",
+      "blocks": {
+        "grid_QnpUeE": {
+          "type": "grid",
+          "settings": {
+            "media_image": "shopify://shop_images/Ecosystem_Support_1_146714db-2792-4485-9331-710309d61940.png",
+            "column": 4,
+            "row": 1,
+            "heading": "<strong>Funding and Support</strong>",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>A portion of every purchase goes to supporting indie game developers.</p>",
+            "content_position": "center-left",
+            "content_alignment": "center",
+            "content_width": "large",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "heading_color": "#ffffff",
+            "text_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_shadow_color": "#000000",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#ffffff",
+            "btn_hover_color": "#000000",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#000000",
+            "background_color": "#000000",
+            "background_opacity": 0.3
+          }
+        },
+        "grid_dWwwh7": {
+          "type": "grid",
+          "settings": {
+            "media_image": "shopify://shop_images/Ecosystem_Support_1_4b27de2f-0672-4e10-8805-c3e1a4757669.png",
+            "column": 4,
+            "row": 1,
+            "heading": "<strong>Community Involvement</strong>",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Gamers vote on projects to support, fostering a collaborative and engaging environment.</p>",
+            "content_position": "center-left",
+            "content_alignment": "center",
+            "content_width": "large",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "heading_color": "#ffffff",
+            "text_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_shadow_color": "#000000",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#ffffff",
+            "btn_hover_color": "#000000",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#000000",
+            "background_color": "#000000",
+            "background_opacity": 0.3
+          }
+        },
+        "grid_rH8ncJ": {
+          "type": "grid",
+          "settings": {
+            "media_image": "shopify://shop_images/Ecosystem_Support_1_cf2ddc97-49d4-460d-8e5e-0452743d5a41.png",
+            "column": 2,
+            "row": 1,
+            "heading": "<strong>Visibility and Promotion</strong>",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Selected indie games are featured on our platform, gaining exposure to a wide audience.</p>",
+            "content_position": "center-left",
+            "content_alignment": "center",
+            "content_width": "large",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "heading_color": "#ffffff",
+            "text_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_shadow_color": "#000000",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#ffffff",
+            "btn_hover_color": "#000000",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#000000",
+            "background_color": "#000000",
+            "background_opacity": 0.3
+          }
+        }
+      },
+      "block_order": [
+        "grid_QnpUeE",
+        "grid_dWwwh7",
+        "grid_rH8ncJ"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "section_width": false,
+        "container_width": "extra_small",
+        "desktop_row_height": 400,
+        "mobile_row_height": 200,
+        "desktop_grid_gap": 5,
+        "mobile_grid_gap": 5,
+        "enable_shadow": false,
+        "enable_hover_content": false,
+        "heading": "",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 20,
+        "bottom_space_desktop": 45,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "rich_text_RXzyMX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dX976Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>What are some benefits for Indie Developers?</strong>",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_animation": false,
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_TrVFzF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this description about your brand with your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dX976Q",
+        "text_TrVFzF"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "content_width": "large",
+        "content_alignment": "text-center",
+        "content_postion": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 10,
+        "bottom_space_desktop": 10,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 10
+      }
+    },
+    "media_grid_GayDRY": {
+      "type": "media-grid",
+      "blocks": {
+        "grid_JLQ4LK": {
+          "type": "grid",
+          "settings": {
+            "media_image": "shopify://shop_images/Ecosystem_Support_1_5f3df294-6d56-4584-bebe-2c963d60f775.png",
+            "column": 2,
+            "row": 1,
+            "heading": "<strong>Financial Support</strong>",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Receive funding to bring your game to life.</p>",
+            "content_position": "center-left",
+            "content_alignment": "center",
+            "content_width": "large",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "heading_color": "#ffffff",
+            "text_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_shadow_color": "#000000",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#ffffff",
+            "btn_hover_color": "#000000",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#000000",
+            "background_color": "#000000",
+            "background_opacity": 0.3
+          }
+        },
+        "grid_AMH66Y": {
+          "type": "grid",
+          "settings": {
+            "media_image": "shopify://shop_images/Ecosystem_Support_1_4020c777-ddd1-440d-82bd-b884e4a3e2b1.png",
+            "column": 2,
+            "row": 1,
+            "heading": "<strong>Marketing and Promotion</strong>",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Increase visibility through our marketing efforts.</p>",
+            "content_position": "center-left",
+            "content_alignment": "center",
+            "content_width": "large",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "heading_color": "#ffffff",
+            "text_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_shadow_color": "#000000",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#ffffff",
+            "btn_hover_color": "#000000",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#000000",
+            "background_color": "#000000",
+            "background_opacity": 0.3
+          }
+        },
+        "grid_cGjFR6": {
+          "type": "grid",
+          "settings": {
+            "media_image": "shopify://shop_images/Ecosystem_Support_1_fbe50eb5-16c7-4b49-928f-7ed32d0b8a18.png",
+            "column": 2,
+            "row": 1,
+            "heading": "<strong>Community Engagement</strong>",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Connect with a passionate community of supportive gamers.</p>",
+            "content_position": "center-left",
+            "content_alignment": "center",
+            "content_width": "large",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "heading_color": "#ffffff",
+            "text_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_shadow_color": "#000000",
+            "btn_text_color": "#000000",
+            "btn_border_color": "#ffffff",
+            "btn_hover_color": "#000000",
+            "btn_hover_text_color": "#ffffff",
+            "btn_hover_border_color": "#000000",
+            "background_color": "#000000",
+            "background_opacity": 0.3
+          }
+        }
+      },
+      "block_order": [
+        "grid_JLQ4LK",
+        "grid_AMH66Y",
+        "grid_cGjFR6"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "section_width": false,
+        "container_width": "extra_small",
+        "desktop_row_height": 400,
+        "mobile_row_height": 200,
+        "desktop_grid_gap": 5,
+        "mobile_grid_gap": 5,
+        "enable_shadow": false,
+        "enable_hover_content": false,
+        "heading": "",
+        "highlight_style": "underline",
+        "bg__color": "solid",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 5,
+        "bottom_space_desktop": 15,
+        "top_space_mobile": 25,
+        "bottom_space_mobile": 25
+      }
+    },
+    "image_with_text_carousel_DwMCt3": {
+      "type": "image-with-text-carousel",
+      "blocks": {
+        "image_with_text_33ENM3": {
+          "type": "image-with-text",
+          "settings": {
+            "image": "shopify://shop_images/Ecosystem_Support_1ee3cc75-214f-4016-8db0-003086f8215e.png",
+            "image_position": "right",
+            "icon_text": "",
+            "heading": "<strong>Have a game in the works?</strong>",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "<p>Use the application form below to apply now and get the support you need to bring your vision to life!</p>",
+            "btn_text": "",
+            "btn_link": "shopify://collections/all",
+            "button_as_link": false,
+            "button_size": "large",
+            "content_alignment": "center",
+            "content_position": "center",
+            "container_bg": "#ffffff",
+            "heading_color": "#0b0e0d",
+            "text_color": "#0b0e0d",
+            "highlight_color": "#000000",
+            "card_border_color": "#000000",
+            "button_bg": "#000000",
+            "btn_shadow_color": "#575757",
+            "button_bg_hover": "#ffffff",
+            "link_color": "#ffffff",
+            "link_color_hover": "#0b0e0d",
+            "border_color": "#000000",
+            "border_color_hover": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_33ENM3"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "enable_fullwidth": false,
+        "enable_card_border": false,
+        "enable_image_zoom": true,
+        "carousel_type": "carousel",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "desktop_height": "550px",
+        "desktop_width": "large",
+        "mobile_height": "450px",
+        "image_fit": "cover",
+        "enable_custom_radius": false,
+        "card_radius_desktop": 0,
+        "card_radius_mobile": 0,
+        "dots_color": "#0b0e0d",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "images_banner_UPaNVT": {
+      "type": "images-banner",
+      "blocks": {
+        "image_rekbEy": {
+          "type": "image",
+          "settings": {
+            "heading": "Follow us on our social media channels listed at the bottom of the page to be notified as soon as the ecosystem support program goes live!",
+            "description": "<strong>info@gamesporium.com</strong>",
+            "image": "shopify://shop_images/Ecosystem_Support_9f2837e6-c313-4437-9815-d389ef3a49ac.png",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_rekbEy"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "desktop_image_height": "600px",
+        "mobile_image_height": "400px",
+        "enable_shape": false,
+        "shape_pattern": "shape1",
+        "shape_color": "#ffffff",
+        "shape_opacity": 0,
+        "heading_color": "#000000",
+        "heading_hover_color": "#ffffff",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "contact_form_JVVehJ": {
+      "type": "contact-form",
+      "settings": {
+        "section_visibility": "always",
+        "heading": "Apply now!",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "description": "",
+        "content_alignment": "text-left",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "custom_liquid_zcXbyc": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "section_visibility": "always",
+        "custom_liquid": "{{ 'account.css' | asset_url | stylesheet_tag }}\n{% liquid\n  assign Colorscheme = section.settings.color_scheme\n%}\n<div class=\"scheme-{{ Colorscheme }}{% if section.settings.enable_gradient %} gradiant{% endif %} section-padding\">\n  <div class=\"{{ settings.layout_style }}\">\n    <div class=\"customer register\">\n      <h2 class=\"account-form-heading h2\">{{ 'customer.register.title' | t }}</h2>\n      {%- form 'create_customer', novalidate: 'novalidate' -%}\n        {%- if form.errors -%}\n          <div class=\"form-message error\" tabindex=\"-1\" autofocus>\n            {{ 'templates.contact.form.error_heading' | t }}\n            <ul>\n            {%- for field in form.errors -%}\n              <li>\n                {%- if field == 'form' -%}\n                  {{ form.errors.messages[field] }}\n                {%- else -%}\n                  <a href=\"#RegisterForm-{{ field }}\">\n                    {{ form.errors.translated_fields[field] | capitalize }}\n                    {{ form.errors.messages[field] }}\n                  </a>\n                {%- endif -%}\n              </li>\n            {%- endfor -%}\n          </ul>\n          </div>\n          \n        {%- endif -%}\n        <div class=\"form-group\">\n          <label for=\"RegisterForm-FirstName\">\n            {{ 'customer.register.first_name' | t }}\n          </label>\n          <input\n            type=\"text\"\n            class=\"form-control{% if settings.enable_input_shadow %} small-shadow-enabled{% endif %}\"\n            name=\"customer[first_name]\"\n            id=\"RegisterForm-FirstName\"\n            {% if form.first_name %}\n              value=\"{{ form.first_name }}\"\n            {% endif %}\n            autocomplete=\"given-name\"\n            placeholder=\"{{ 'customer.register.first_name' | t }}\"\n          >\n        </div>\n        <div class=\"form-group\">\n          <label for=\"RegisterForm-LastName\">\n            {{ 'customer.register.last_name' | t }}\n          </label>\n          <input\n            type=\"text\"\n            name=\"customer[last_name]\"\n            class=\"form-control{% if settings.enable_input_shadow %} small-shadow-enabled{% endif %}\"\n            id=\"RegisterForm-LastName\"\n            {% if form.last_name %}\n              value=\"{{ form.last_name }}\"\n            {% endif %}\n            autocomplete=\"family-name\"\n            placeholder=\"{{ 'customer.register.last_name' | t }}\"\n          >\n        </div>\n        <div class=\"form-group\">\n          <label for=\"RegisterForm-email\">\n            {{ 'customer.register.email' | t }}\n          </label>\n          <input\n            type=\"email\"\n            name=\"customer[email]\"\n            class=\"form-control{% if settings.enable_input_shadow %} small-shadow-enabled{% endif %}\"\n            id=\"RegisterForm-email\"\n            {% if form.email %}\n              value=\"{{ form.email }}\"\n            {% endif %}\n            spellcheck=\"false\"\n            autocapitalize=\"off\"\n            autocomplete=\"email\"\n            aria-required=\"true\"\n            {% if form.errors contains 'email' %}\n              aria-invalid=\"true\"\n              aria-describedby=\"RegisterForm-email-error\"\n            {% endif %}\n            placeholder=\"{{ 'customer.register.email' | t }}\"\n          >\n        </div>\n        \n        <div class=\"form-group\">\n          <label for=\"RegisterForm-password\">\n            {{ 'customer.register.password' | t }}\n          </label>\n          <input\n            type=\"password\"\n            class=\"form-control{% if settings.enable_input_shadow %} small-shadow-enabled{% endif %}\"\n            name=\"customer[password]\"\n            id=\"RegisterForm-password\"\n            aria-required=\"true\"\n            {% if form.errors contains 'password' %}\n              aria-invalid=\"true\"\n              aria-describedby=\"RegisterForm-password-error\"\n            {% endif %}\n            placeholder=\"{{ 'customer.register.password' | t }}\"\n          >\n        </div>\n        \n        <button class=\"button large-btn btn-block{% if settings.enable_button_shadow %} button-shadow{% endif %}\">{{ 'customer.register.submit' | t }}</button>\n        <div class=\"create-account-text text-center\">\n          <p class=\"text-medium\">\n            <span class=\"create-account-text-info\">{{ 'customer.login_page.already_account' | t }}</span>\n            <a href=\"{{ routes.account_login_url }}\" class=\"hyperlink\"><strong>{{ 'customer.login_page.login' | t }}</strong></a>\n          </p>\n        </div>\n      {% endform %}\n    </div>\n  </div>\n</div>",
+        "text_alignment": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 70,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "images_banner_cjdpfc",
+    "rich_text_4zMqir",
+    "image_with_text_carousel_pdDgJE",
+    "rich_text_DW48zb",
+    "media_grid_adi3zP",
+    "rich_text_RXzyMX",
+    "media_grid_GayDRY",
+    "image_with_text_carousel_DwMCt3",
+    "images_banner_UPaNVT",
+    "contact_form_JVVehJ",
+    "custom_liquid_zcXbyc"
+  ]
+}

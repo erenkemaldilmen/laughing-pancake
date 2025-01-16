@@ -1,0 +1,227 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "desktop_height": "300px",
+        "mobile_height": "200px",
+        "heading_size": "h1",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "page_content": true,
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#b3b3b3",
+        "text_color": "",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0.6,
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 70,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "collapsible_content_Ypqjbx": {
+      "type": "Collapsible-content",
+      "blocks": {
+        "text_XR877T": {
+          "type": "text",
+          "settings": {
+            "heading": "Who We Are",
+            "page_content": "",
+            "description": "<p>At Gamesporium, we are a passionate community of gamers dedicated to creating an inclusive gaming environment for everyone. Our platform offers a vast portfolio of games from diverse genres, ensuring that every gamer, regardless of ability, finds something to enjoy. By collaborating with publishers, studios, and indie developers, we strive to push the boundaries of accessibility and innovation in the gaming industry.</p>"
+          }
+        },
+        "text_YgUQrK": {
+          "type": "text",
+          "settings": {
+            "heading": "What We Offer",
+            "page_content": "",
+            "description": "<p><strong>Extensive Game Library</strong>: From the latest AAA titles to beloved indie gems, our platform boasts a wide variety of games across all genres and platforms. Whether you're into action-packed adventures, strategic RPGs, or immersive simulations, you'll find something to ignite your gaming passion.</p><p><br/><strong>Exclusive Deals and Discounts</strong>: We work closely with developers and publishers to bring you the best deals and exclusive offers. Our commitment to providing value means you'll always find great games at competitive prices.</p><p><br/><strong>Community and Support</strong>: At Gamesporium, we foster a vibrant community of gamers. Join our newsletter, follow us on our social media channels, and reach out on our contact us page. Our support team is always here to help with any questions or issues you may encounter, ensuring a smooth and enjoyable shopping experience.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_XR877T",
+        "text_YgUQrK"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "style": "horizontal",
+        "heading": "About Us",
+        "highlight_style": "underline",
+        "bg__color": "gradient",
+        "heading_animation": true,
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "heading_alignment": "text-left",
+        "description": "Gamesporium provides a comprehensive gaming platform that features a wide range of games, from blockbuster hits to indie gems. We are committed to empowering the gaming ecosystem through strategic partnerships and by supporting indie developers. Our focus on accessibility ensures that our platform and the games we offer can be enjoyed by gamers of all abilities, fostering a vibrant and inclusive community.",
+        "enable_blur_overlay": true,
+        "default_open": "none",
+        "heading_color": "#000000",
+        "description_color": "#000000",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 40,
+        "bottom_space_mobile": 40
+      }
+    },
+    "numbers_KaLGyM": {
+      "type": "numbers",
+      "blocks": {
+        "numbers_item_FNQ9Y3": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 46881,
+            "heading_unit": "+",
+            "heading": "Products sold",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "",
+            "icon_list": "shipping",
+            "enable_icon_bg": true,
+            "icon_bg_color": "#b99a45",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        },
+        "numbers_item_x3BiYy": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 299,
+            "heading_unit": "%",
+            "heading": "Growth in Gamescon Sales",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "eye",
+            "enable_icon_bg": true,
+            "icon_bg_color": "#b99a45",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        },
+        "numbers_item_nkwHMU": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 1034293,
+            "heading_unit": "+",
+            "heading": "Unique Visitors",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "smile",
+            "enable_icon_bg": true,
+            "icon_bg_color": "#b99a45",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        },
+        "numbers_item_UjVyVC": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 60,
+            "heading_unit": "+",
+            "heading": "Publishers",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "global",
+            "enable_icon_bg": true,
+            "icon_bg_color": "#b99a45",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        },
+        "numbers_item_pJiBTy": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 800,
+            "heading_unit": "+",
+            "heading": "Products",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "gift",
+            "enable_icon_bg": true,
+            "icon_bg_color": "#b99a45",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        },
+        "numbers_item_fEagri": {
+          "type": "numbers_item",
+          "settings": {
+            "number": 67692,
+            "heading_unit": "+",
+            "heading": "Active Registered Users",
+            "heading_font_size": 40,
+            "heading_font_size_mobile": 30,
+            "t:global.general_labels.description": "Add short description about your brand growth.",
+            "icon_list": "heart",
+            "enable_icon_bg": true,
+            "icon_bg_color": "#b99a45",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "bg_overlay_color": "#000000",
+            "bg_overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "numbers_item_FNQ9Y3",
+        "numbers_item_x3BiYy",
+        "numbers_item_nkwHMU",
+        "numbers_item_UjVyVC",
+        "numbers_item_pJiBTy",
+        "numbers_item_fEagri"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "numbers_layout": "column",
+        "columns_count": 3,
+        "columns_count_mobile": "2",
+        "heading": "",
+        "highlight_style": "underline",
+        "heading_animation": false,
+        "heading_size": "h3",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "description": "",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 20,
+        "bottom_space_desktop": 20,
+        "top_space_mobile": 20,
+        "bottom_space_mobile": 20
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "collapsible_content_Ypqjbx",
+    "numbers_KaLGyM"
+  ]
+}

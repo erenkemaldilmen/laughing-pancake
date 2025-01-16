@@ -1,0 +1,83 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_RzE8gW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Adzbpy": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>GameWise: News and Ethics in Gaming</strong>",
+            "highlight_style": "underline",
+            "bg__color": "gradient",
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_arQttN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stay informed with the latest news and insights on online gaming, focusing on social responsibility and ethical practices. Join us as we explore the impact of gaming on society and promote a positive, inclusive gaming community.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Adzbpy",
+        "text_arQttN"
+      ],
+      "settings": {
+        "section_visibility": "always",
+        "content_width": "large",
+        "content_alignment": "text-center",
+        "content_postion": "center",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 10
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "overlay_text": false,
+        "desktop_height": "300px",
+        "mobile_height": "100px",
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "heading_alignment": "text-center",
+        "show_date": false,
+        "show_author": false,
+        "show_tags": true,
+        "show_tags_filter": true,
+        "show_excerpt": true,
+        "show_comment_count": false,
+        "article_per_page": 12,
+        "grid_image_size": "auto",
+        "color_scheme": "",
+        "enable_gradient": false,
+        "banner_background_color": "#000000",
+        "text_color": "#ffffff",
+        "background_color": "#b3b3b3",
+        "background_opacity": 0,
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 20,
+        "bottom_space_mobile": 20
+      }
+    }
+  },
+  "order": [
+    "rich_text_RzE8gW",
+    "main"
+  ]
+}

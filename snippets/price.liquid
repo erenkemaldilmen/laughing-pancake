@@ -1,0 +1,56 @@
+{% liquid
+  assign compare_at_price = cardProduct.compare_at_price_min
+  assign price = cardProduct.price_min
+  assign price_min = cardProduct.price_min | default: 1899 | money
+  assign money_price = price | money
+%}
+
+{% if settings.product_price and cardProduct.price_min %}
+  <div class="product-price">
+    {%- if cardProduct.price_varies -%}
+      <span class="price-item actual-price price-varies">
+        {{- 'products.product.price.from_price_html' | t: price: price_min -}}
+      </span>
+    {%- else -%}
+      <span class="price-item actual-price ">{{ money_price }}</span>
+    {%- endif -%}
+  {% unless hideComparePrice %}
+    {% if compare_at_price > price %}
+      <span class="price-item compare-price">{{- compare_at_price | money -}}</span>
+    {% endif %}
+    <span class="hidden">{{ 'products.product.badges.preorder' | t }}</span>
+    <span
+      class="product-unit-price {% unless current_variant.unit_price_measurement %} hidden{% endunless %}"
+      data-unit-price
+    >
+      {{ current_variant.unit_price | money }} /
+      {% if current_variant.unit_price_measurement.reference_value != 1 -%}
+        {{- current_variant.unit_price_measurement.reference_value -}}
+      {%- endif %}
+      {{ current_variant.unit_price_measurement.reference_unit }}
+    </span>
+    {% if request.page_type != 'index' %}
+      {% if savePercentoff != false %}
+        {% if  settings.show_savings  and cardProduct.compare_at_price_min > cardProduct.price_min %}
+          {% assign offText = 'Off' %}
+          <span class="product-percent-off">
+            {% if settings.sale_label_type == 'percent-off' %}
+              {{
+                cardProduct.compare_at_price_min
+                | minus: cardProduct.price_min
+                | times: 100
+                | divided_by: cardProduct.compare_at_price_min
+                | append: '% '
+                | append: offText
+              -}}
+            {% else %}
+              {{ cardProduct.compare_at_price_min | minus: cardProduct.price_min | money }}
+              {{ offText }}
+            {% endif %}
+          </span>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+    {% endunless %}
+  </div>
+{% endif %}
